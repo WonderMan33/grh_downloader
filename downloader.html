@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Golden Radio Hour – Show Downloader</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --bg: #05060a;
+      --bg-alt: #0c0f18;
+      --panel: #141827;
+      --panel-alt: #191f30;
+      --accent: #f5c35b;
+      --accent-soft: rgba(245, 195, 91, 0.14);
+      --text: #f7f7fb;
+      --text-soft: #c3c7de;
+      --border: #262b3f;
+      --shadow-soft: 0 18px 40px rgba(0, 0, 0, 0.6);
+      --radius-lg: 16px;
+      --radius-pill: 999px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top, #111627 0, #05060a 45%, #010207 100%);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .app-shell {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px 16px 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+
+    header .title-block {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    h1 {
+      font-size: 1.7rem;
+      letter-spacing: 0.03em;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    h1 span.logo-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 14px rgba(245, 195, 91, 0.85);
+    }
+
+    header p {
+      margin: 0;
+      font-size: 0.9rem;
+      color: var(--text-soft);
+    }
+
+    .tagline-pill {
+      padding: 6px 12px;
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      background: linear-gradient(90deg, rgba(245, 195, 91, 0.09), rgba(30, 41, 59, 0.8));
+      font-size: 0.8rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-soft);
+    }
+
+    .tagline-pill span.bullet {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 8px rgba(245, 195, 91, 0.8);
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 260px) minmax(0, 1fr);
+      gap: 18px;
+      align-items: flex-start;
+    }
+
+    @media (max-width: 860px) {
+      .layout { grid-template-columns: minmax(0, 1fr); }
+    }
+
+    .panel {
+      background: radial-gradient(circle at top left, rgba(148, 163, 255, 0.06), rgba(15, 23, 42, 0.98));
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow-soft);
+      padding: 14px 14px 12px;
+    }
+
+    .panel-secondary {
+      background: radial-gradient(circle at top right, rgba(248, 250, 252, 0.02), rgba(15, 23, 42, 0.98));
+    }
+
+    .panel-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    .panel-header h2 {
+      margin: 0;
+      font-size: 1rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--text-soft);
+    }
+
+    .panel-header small {
+      font-size: 0.75rem;
+      color: var(--text-soft);
+      opacity: 0.85;
+    }
+
+    .search-box {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    .search-box input {
+      flex: 1;
+      background: rgba(15, 23, 42, 0.95);
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      padding: 6px 10px;
+      font-size: 0.9rem;
+      color: var(--text);
+      outline: none;
+    }
+
+    .search-box input::placeholder { color: #6b7280; }
+
+    .search-box button {
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      background: rgba(15, 23, 42, 0.95);
+      color: var(--text-soft);
+      font-size: 0.8rem;
+      padding: 6px 10px;
+      cursor: pointer;
+    }
+
+    .filter-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+
+    .chip {
+      font-size: 0.75rem;
+      padding: 4px 9px;
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      color: var(--text-soft);
+      background: rgba(15, 23, 42, 0.95);
+      cursor: pointer;
+      opacity: 0.85;
+    }
+
+    .chip.active {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+      color: var(--accent);
+      opacity: 1;
+    }
+
+    .show-list {
+      max-height: 480px;
+      overflow-y: auto;
+      padding-right: 4px;
+      margin-right: -4px;
+    }
+
+    .show-item {
+      border-radius: 10px;
+      padding: 7px 9px;
+      margin-bottom: 4px;
+      border: 1px solid transparent;
+      cursor: pointer;
+      font-size: 0.88rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .show-item span.name {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .show-item span.count {
+      font-size: 0.75rem;
+      color: #9ca3af;
+      flex-shrink: 0;
+    }
+
+    .show-item:hover {
+      background: rgba(15, 23, 42, 0.85);
+      border-color: var(--border);
+    }
+
+    .show-item.active {
+      background: rgba(15, 23, 42, 0.95);
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px rgba(245, 195, 91, 0.35);
+    }
+
+    .show-header {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+
+    .show-header-line1 {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .show-name {
+      font-size: 1.2rem;
+      margin: 0;
+    }
+
+    .show-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 10px;
+      font-size: 0.8rem;
+      color: var(--text-soft);
+    }
+
+    .show-meta span.label {
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      font-size: 0.7rem;
+      color: #9ca3af;
+    }
+
+    .show-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 4px;
+    }
+
+    .tag-pill {
+      font-size: 0.75rem;
+      padding: 3px 8px;
+      border-radius: 999px;
+      background: rgba(31, 41, 55, 0.95);
+      border: 1px solid rgba(55, 65, 81, 0.9);
+      color: var(--text-soft);
+    }
+
+    .show-description {
+      font-size: 0.88rem;
+      color: var(--text-soft);
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }
+
+    .primary-download {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+
+    .btn {
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      background: rgba(15, 23, 42, 0.95);
+      color: var(--text-soft);
+      font-size: 0.8rem;
+      padding: 7px 14px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .btn-primary {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-weight: 500;
+    }
+
+    .btn-disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+
+    .primary-hint {
+      font-size: 0.78rem;
+      color: var(--text-soft);
+      opacity: 0.9;
+    }
+
+    .episodes-toggle {
+      margin: 10px 0 6px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .episodes-toggle button {
+      font-size: 0.78rem;
+    }
+
+    .episodes-panel {
+      background: rgba(15, 23, 42, 0.9);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      padding: 8px 10px;
+      max-height: 320px;
+      overflow-y: auto;
+      display: none; /* hidden by default */
+    }
+
+    .episodes-panel.visible {
+      display: block;
+    }
+
+    .episode-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 8px;
+      align-items: center;
+      padding: 5px 0;
+      border-bottom: 1px solid rgba(31, 41, 55, 0.8);
+    }
+
+    .episode-row:last-child {
+      border-bottom: none;
+    }
+
+    .episode-title {
+      font-size: 0.88rem;
+      color: var(--text);
+      word-break: break-word;
+    }
+
+    .episode-actions {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .download-hint {
+      font-size: 0.78rem;
+      color: var(--text-soft);
+      margin-bottom: 6px;
+      opacity: 0.88;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 2px 7px;
+      border-radius: 999px;
+      border: 1px solid rgba(31, 41, 55, 0.9);
+      font-size: 0.72rem;
+      color: #9ca3af;
+      gap: 6px;
+    }
+
+    .badge-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 8px rgba(245, 195, 91, 0.7);
+    }
+
+    .empty-state {
+      font-size: 0.9rem;
+      color: var(--text-soft);
+      padding: 20px 10px;
+      text-align: center;
+    }
+
+    .status-bar {
+      font-size: 0.78rem;
+      color: var(--text-soft);
+      opacity: 0.85;
+      display: flex;
+      justify-content: space-between;
+      padding: 4px 4px 0;
+    }
+
+    .status-bar span { white-space: nowrap; }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <header>
+      <div class="title-block">
+        <h1>
+          <span class="logo-dot"></span>
+          Golden Radio Hour – Library Downloader
+        </h1>
+        <p>Pick a show, grab the full folder (ZIP or archive), or drill down to individual episodes.</p>
+      </div>
+      <div class="tagline-pill">
+        <span class="bullet"></span>
+        One click for the whole show – episodes are optional.
+      </div>
+    </header>
+
+    <div class="layout">
+      <!-- LEFT: SHOW LIST / FILTERS -->
+      <section class="panel panel-secondary">
+        <div class="panel-header">
+          <div>
+            <h2>Shows</h2>
+            <small id="showCountLabel">Loading…</small>
+          </div>
+        </div>
+
+        <div class="search-box">
+          <input
+            id="searchInput"
+            type="text"
+            placeholder="Search shows (title or description)…"
+          />
+          <button type="button" id="clearSearchBtn">Clear</button>
+        </div>
+
+        <div class="filter-chips" id="genreChips"></div>
+
+        <div class="show-list" id="showList"></div>
+      </section>
+
+      <!-- RIGHT: SHOW DETAIL / DOWNLOADS -->
+      <section class="panel">
+        <div class="panel-header">
+          <div>
+            <h2>Show downloads</h2>
+            <small>Select a show on the left to download it.</small>
+          </div>
+        </div>
+
+        <div id="showDetail">
+          <div class="empty-state">
+            Pick a show from the left. You’ll get a big “Download full show” button, plus optional episode downloads.
+          </div>
+        </div>
+
+        <div class="status-bar">
+          <span id="statusLeft"></span>
+          <span id="statusRight"></span>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script>
+    const SHOWS_JSON_URL = "shows.json";
+
+    let allShows = [];
+    let filteredShows = [];
+    let activeShowId = null;
+    let allGenres = new Set();
+    let activeGenre = null;
+
+    const showListEl = document.getElementById("showList");
+    const showDetailEl = document.getElementById("showDetail");
+    const searchInput = document.getElementById("searchInput");
+    const clearSearchBtn = document.getElementById("clearSearchBtn");
+    const showCountLabel = document.getElementById("showCountLabel");
+    const genreChipsEl = document.getElementById("genreChips");
+    const statusLeftEl = document.getElementById("statusLeft");
+    const statusRightEl = document.getElementById("statusRight");
+
+    async function loadShows() {
+      try {
+        const res = await fetch(SHOWS_JSON_URL, { cache: "no-cache" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+
+        allShows = Array.isArray(data) ? data : [];
+        computeGenres();
+        filteredShows = [...allShows];
+        renderGenreChips();
+        renderShowList();
+        showCountLabel.textContent = `${allShows.length} shows loaded`;
+        statusRightEl.textContent = "";
+      } catch (err) {
+        console.error("Error loading shows.json", err);
+        showCountLabel.textContent = "Error loading library";
+        showListEl.innerHTML = `
+          <div class="empty-state">
+            Could not load <code>shows.json</code>. Make sure this file is in the same folder as this HTML page.
+          </div>
+        `;
+        statusRightEl.textContent = "Failed to load JSON";
+      }
+    }
+
+    function computeGenres() {
+      allGenres.clear();
+      for (const show of allShows) {
+        const genres = Array.isArray(show.genres) ? show.genres : [];
+        genres.forEach((g) => {
+          const trimmed = String(g || "").trim();
+          if (trimmed) allGenres.add(trimmed);
+        });
+      }
+    }
+
+    function renderGenreChips() {
+      genreChipsEl.innerHTML = "";
+      if (!allGenres.size) return;
+
+      const allChip = document.createElement("button");
+      allChip.type = "button";
+      allChip.className = "chip" + (activeGenre === null ? " active" : "");
+      allChip.textContent = "All genres";
+      allChip.addEventListener("click", () => {
+        activeGenre = null;
+        applyFilters();
+      });
+      genreChipsEl.appendChild(allChip);
+
+      const sortedGenres = Array.from(allGenres).sort((a, b) => a.localeCompare(b));
+      for (const g of sortedGenres) {
+        const chip = document.createElement("button");
+        chip.type = "button";
+        chip.className = "chip" + (activeGenre === g ? " active" : "");
+        chip.textContent = g;
+        chip.addEventListener("click", () => {
+          activeGenre = activeGenre === g ? null : g;
+          applyFilters();
+        });
+        genreChipsEl.appendChild(chip);
+      }
+    }
+
+    function applyFilters() {
+      const q = searchInput.value.trim().toLowerCase();
+      filteredShows = allShows.filter((show) => {
+        const name = (show.name || "").toLowerCase();
+        const desc = (show.description || "").toLowerCase();
+        const genres = Array.isArray(show.genres) ? show.genres : [];
+
+        const matchesSearch = !q || name.includes(q) || desc.includes(q);
+        const matchesGenre =
+          activeGenre === null ||
+          genres.some(
+            (g) =>
+              String(g || "").trim().toLowerCase() ===
+              activeGenre.toLowerCase()
+          );
+
+        return matchesSearch && matchesGenre;
+      });
+
+      renderGenreChips(); // refresh active state
+      renderShowList();
+
+      if (filteredShows.length === 0) {
+        showCountLabel.textContent = "No shows match the filters.";
+      } else {
+        showCountLabel.textContent = `${filteredShows.length} show${filteredShows.length !== 1 ? "s" : ""} visible`;
+      }
+
+      statusLeftEl.textContent =
+        q || activeGenre ? "Filters active" : "";
+    }
+
+    function renderShowList() {
+      showListEl.innerHTML = "";
+      if (!filteredShows.length) {
+        showListEl.innerHTML =
+          '<div class="empty-state">No shows found. Try clearing your filters.</div>';
+        return;
+      }
+
+      for (const show of filteredShows) {
+        const item = document.createElement("div");
+        item.className =
+          "show-item" + (show.id === activeShowId ? " active" : "");
+        item.dataset.showId = show.id;
+
+        const nameSpan = document.createElement("span");
+        nameSpan.className = "name";
+        nameSpan.textContent =
+          show.name || show.id || "Untitled show";
+
+        const episodes = Array.isArray(show.episodes) ? show.episodes : [];
+        const countSpan = document.createElement("span");
+        countSpan.className = "count";
+        countSpan.textContent = `${episodes.length}`;
+
+        item.appendChild(nameSpan);
+        item.appendChild(countSpan);
+
+        item.addEventListener("click", () => {
+          activeShowId = show.id;
+          renderShowList();
+          renderShowDetail(show);
+        });
+
+        showListEl.appendChild(item);
+      }
+    }
+
+    function renderShowDetail(show) {
+      if (!show) {
+        showDetailEl.innerHTML = `
+          <div class="empty-state">
+            Pick a show from the left. You’ll get a big “Download full show” button, plus optional episode downloads.
+          </div>
+        `;
+        statusRightEl.textContent = "";
+        return;
+      }
+
+      const episodes = Array.isArray(show.episodes) ? show.episodes : [];
+      const tags = Array.isArray(show.tags) ? show.tags : [];
+      const genres = Array.isArray(show.genres) ? show.genres : [];
+      const downloadUrl = show.downloadUrl || null;
+
+      const episodeCount = episodes.length;
+      statusRightEl.textContent = `${episodeCount} episode${episodeCount !== 1 ? "s" : ""}`;
+
+      const container = document.createElement("div");
+
+      // Header
+      const header = document.createElement("div");
+      header.className = "show-header";
+
+      const line1 = document.createElement("div");
+      line1.className = "show-header-line1";
+
+      const titleEl = document.createElement("h3");
+      titleEl.className = "show-name";
+      titleEl.textContent = show.name || show.id || "Untitled show";
+
+      const badge = document.createElement("div");
+      badge.className = "badge";
+      const dot = document.createElement("span");
+      dot.className = "badge-dot";
+      const label = document.createElement("span");
+      label.textContent = "Show-level download first";
+      badge.appendChild(dot);
+      badge.appendChild(label);
+
+      line1.appendChild(titleEl);
+      line1.appendChild(badge);
+
+      const meta = document.createElement("div");
+      meta.className = "show-meta";
+
+      if (genres.length) {
+        const gSpan = document.createElement("span");
+        gSpan.innerHTML =
+          '<span class="label">Genres</span> ' +
+          genres.join(", ");
+        meta.appendChild(gSpan);
+      }
+
+      if (episodeCount) {
+        const cSpan = document.createElement("span");
+        cSpan.innerHTML =
+          '<span class="label">Episodes</span> ' + episodeCount;
+        meta.appendChild(cSpan);
+      }
+
+      header.appendChild(line1);
+      if (meta.childNodes.length) header.appendChild(meta);
+
+      const tagsRow = document.createElement("div");
+      tagsRow.className = "show-tags";
+      if (tags.length) {
+        tags.forEach((t) => {
+          const tagEl = document.createElement("span");
+          tagEl.className = "tag-pill";
+          tagEl.textContent = t;
+          tagsRow.appendChild(tagEl);
+        });
+        header.appendChild(tagsRow);
+      }
+
+      const desc = document.createElement("div");
+      desc.className = "show-description";
+      desc.textContent =
+        show.description && show.description.trim()
+          ? show.description.trim()
+          : "No description has been added for this show yet.";
+
+      // Primary download area
+      const primary = document.createElement("div");
+      primary.className = "primary-download";
+
+      const btn = document.createElement(downloadUrl ? "a" : "button");
+      btn.className = "btn btn-primary";
+      if (!downloadUrl) {
+        btn.classList.add("btn-disabled");
+        btn.textContent = "Full show download not set";
+      } else {
+        btn.href = downloadUrl;
+        btn.setAttribute("download", "");
+        btn.textContent = "Download full show (ZIP / folder)";
+      }
+
+      const hint = document.createElement("div");
+      hint.className = "primary-hint";
+      hint.textContent = downloadUrl
+        ? "This downloads the whole show as a single archive from the GRH cloud."
+        : "Add a 'downloadUrl' field for this show in shows.json to enable full-show download.";
+
+      primary.appendChild(btn);
+      primary.appendChild(hint);
+
+      container.appendChild(header);
+      container.appendChild(desc);
+      container.appendChild(primary);
+
+      // Episodes toggle + panel (optional)
+      const toggleRow = document.createElement("div");
+      toggleRow.className = "episodes-toggle";
+
+      const toggleLabel = document.createElement("div");
+      toggleLabel.style.fontSize = "0.8rem";
+      toggleLabel.style.color = "#9ca3af";
+      toggleLabel.textContent = "Need individual episodes instead?";
+
+      const toggleBtn = document.createElement("button");
+      toggleBtn.type = "button";
+      toggleBtn.className = "btn";
+      toggleBtn.textContent = "Show episodes";
+
+      toggleRow.appendChild(toggleLabel);
+      toggleRow.appendChild(toggleBtn);
+
+      const episodesPanel = document.createElement("div");
+      episodesPanel.className = "episodes-panel";
+
+      const epHint = document.createElement("div");
+      epHint.className = "download-hint";
+      epHint.textContent =
+        "Left-click to open in browser, or right-click ▶ “Save link as…” to download a single MP3.";
+
+      episodesPanel.appendChild(epHint);
+
+      if (!episodes.length) {
+        const empty = document.createElement("div");
+        empty.className = "empty-state";
+        empty.style.padding = "10px";
+        empty.textContent = "No episodes found for this show.";
+        episodesPanel.appendChild(empty);
+      } else {
+        episodes.forEach((ep, index) => {
+          const row = document.createElement("div");
+          row.className = "episode-row";
+
+          const titleDiv = document.createElement("div");
+          titleDiv.className = "episode-title";
+          const epNumber = index + 1;
+          const epTitle = ep.title || `Episode ${epNumber}`;
+          titleDiv.textContent = `${epNumber}. ${epTitle}`;
+
+          const actions = document.createElement("div");
+          actions.className = "episode-actions";
+
+          if (ep.url) {
+            const a = document.createElement("a");
+            a.className = "btn";
+            a.href = ep.url;
+            a.setAttribute("download", "");
+            a.textContent = "Download";
+            actions.appendChild(a);
+          } else {
+            const missing = document.createElement("span");
+            missing.style.color = "#f97373";
+            missing.style.fontSize = "0.75rem";
+            missing.textContent = "Missing URL";
+            actions.appendChild(missing);
+          }
+
+          row.appendChild(titleDiv);
+          row.appendChild(actions);
+          episodesPanel.appendChild(row);
+        });
+      }
+
+      // Toggle behavior
+      let visible = false;
+      toggleBtn.addEventListener("click", () => {
+        visible = !visible;
+        if (visible) {
+          episodesPanel.classList.add("visible");
+          toggleBtn.textContent = "Hide episodes";
+        } else {
+          episodesPanel.classList.remove("visible");
+          toggleBtn.textContent = "Show episodes";
+        }
+      });
+
+      container.appendChild(toggleRow);
+      container.appendChild(episodesPanel);
+
+      showDetailEl.innerHTML = "";
+      showDetailEl.appendChild(container);
+    }
+
+    // Events
+    searchInput.addEventListener("input", applyFilters);
+    clearSearchBtn.addEventListener("click", () => {
+      searchInput.value = "";
+      activeGenre = null;
+      applyFilters();
+    });
+
+    statusRightEl.textContent = "Loading library…";
+    loadShows();
+  </script>
+</body>
+</html>
