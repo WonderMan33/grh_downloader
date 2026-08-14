@@ -2,393 +2,963 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Golden Radio Hour – Show Archive Downloads</title>
+  <title>Golden Radio Hour – Show Downloads</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   <style>
     :root {
-      --bg: #05060a;
-      --panel: #111627;
-      --border: #262b3f;
-      --accent: #f5c35b;
-      --accent-soft: rgba(245, 195, 91, 0.18);
-      --text: #f7f7fb;
-      --text-soft: #a3a8c2;
-      --radius-lg: 16px;
-      --radius-md: 10px;
-      --radius-pill: 999px;
-      --shadow-soft: 0 18px 40px rgba(0, 0, 0, 0.55);
+      --red: #b5121b;
+      --red-dark: #941018;
+      --gold: #d99b20;
+      --black: #171717;
+      --text: #222222;
+      --muted: #666666;
+      --border: #dddddd;
+      --soft: #f7f7f7;
+      --white: #ffffff;
+      --shadow: 0 8px 24px rgba(0,0,0,.08);
     }
 
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
 
+    html,
     body {
       margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: radial-gradient(circle at top, #141a2f 0, #05060a 40%, #000 100%);
+      padding: 0;
+    }
+
+    body {
+      font-family:
+        Inter,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+      background: #ffffff;
       color: var(--text);
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
     }
 
     .app {
-      max-width: 1000px;
+      width: 100%;
+      max-width: 1100px;
       margin: 0 auto;
-      padding: 20px 16px 32px;
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
+      padding: 8px 10px 14px;
     }
+
+    /* HEADER */
 
     header {
       display: flex;
-      flex-wrap: wrap;
       justify-content: space-between;
-      gap: 10px;
       align-items: center;
+      gap: 16px;
+
+      padding: 4px 2px 12px;
+      margin-bottom: 10px;
+
+      border-bottom: 3px solid var(--red);
+    }
+
+    .title-wrap {
+      min-width: 0;
     }
 
     h1 {
       margin: 0;
-      font-size: 1.6rem;
+
       display: flex;
       align-items: center;
-      gap: 0.4rem;
-      letter-spacing: 0.03em;
+      gap: 8px;
+
+      font-size: 1.35rem;
+      line-height: 1.2;
+      font-weight: 800;
+
+      color: var(--black);
     }
 
     .logo-dot {
-      width: 11px;
-      height: 11px;
+      width: 9px;
+      height: 9px;
       border-radius: 50%;
-      background: var(--accent);
-      box-shadow: 0 0 16px rgba(245, 195, 91, 0.9);
+
+      background: var(--gold);
+
+      flex: 0 0 auto;
     }
 
     header p {
       margin: 4px 0 0;
-      font-size: 0.9rem;
-      color: var(--text-soft);
+
+      font-size: .82rem;
+      line-height: 1.35;
+
+      color: var(--muted);
     }
 
     .pill {
-      border-radius: var(--radius-pill);
-      border: 1px solid var(--border);
-      padding: 6px 14px;
-      font-size: 0.78rem;
-      color: var(--text-soft);
-      background: linear-gradient(
-        120deg,
-        rgba(245, 195, 91, 0.14),
-        rgba(15, 23, 42, 0.96)
-      );
+      flex: 0 0 auto;
+
+      padding: 5px 10px;
+
+      border: 1px solid #e0c487;
+      border-radius: 4px;
+
+      background: #fffaf0;
+
+      color: #775a18;
+
+      font-size: .72rem;
+      font-weight: 700;
+
       white-space: nowrap;
     }
 
+    /* MAIN PANEL */
+
     .panel {
-      background: radial-gradient(circle at top left, rgba(148, 163, 255, 0.08), rgba(10, 16, 30, 0.98));
-      border-radius: var(--radius-lg);
+      background: var(--white);
+
       border: 1px solid var(--border);
-      box-shadow: var(--shadow-soft);
-      padding: 14px;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
+      border-radius: 7px;
+
+      box-shadow: var(--shadow);
+
+      padding: 10px;
     }
+
+    /* SEARCH */
 
     .top-row {
       display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      justify-content: space-between;
       align-items: center;
+      justify-content: space-between;
+
+      gap: 10px;
+
+      margin-bottom: 10px;
     }
 
     .search-box {
       display: flex;
-      gap: 8px;
+      align-items: stretch;
+
       flex: 1;
-      min-width: 230px;
+
+      gap: 6px;
+
+      min-width: 0;
     }
 
     .search-box input {
       flex: 1;
-      border-radius: var(--radius-pill);
-      border: 1px solid var(--border);
-      padding: 7px 11px;
-      background: rgba(10, 16, 30, 0.98);
+      min-width: 0;
+
+      height: 38px;
+
+      padding: 7px 10px;
+
+      border: 1px solid #cccccc;
+      border-radius: 4px;
+
+      background: #ffffff;
       color: var(--text);
-      font-size: 0.9rem;
+
+      font-family: inherit;
+      font-size: .85rem;
+
       outline: none;
     }
 
+    .search-box input:focus {
+      border-color: var(--red);
+
+      box-shadow:
+        0 0 0 2px rgba(181,18,27,.08);
+    }
+
     .search-box input::placeholder {
-      color: #6b7280;
+      color: #8a8a8a;
     }
 
     .search-box button {
-      border-radius: var(--radius-pill);
-      border: 1px solid var(--border);
-      background: rgba(15, 23, 42, 0.96);
-      color: var(--text-soft);
-      font-size: 0.8rem;
-      padding: 7px 11px;
+      height: 38px;
+
+      padding: 0 14px;
+
+      border: 1px solid var(--red);
+      border-radius: 4px;
+
+      background: #ffffff;
+      color: var(--red);
+
+      font-family: inherit;
+      font-size: .78rem;
+      font-weight: 800;
+
       cursor: pointer;
+
+      transition:
+        background .15s ease,
+        color .15s ease;
+    }
+
+    .search-box button:hover {
+      background: var(--red);
+      color: #ffffff;
     }
 
     .count-label {
-      font-size: 0.8rem;
-      color: var(--text-soft);
+      flex: 0 0 auto;
+
+      font-size: .76rem;
+      font-weight: 700;
+
+      color: var(--muted);
+
+      white-space: nowrap;
     }
+
+    /* SHOW LIST */
 
     .list {
-      max-height: 520px;
+      max-height: 600px;
+
       overflow-y: auto;
-      padding-right: 4px;
+      overflow-x: hidden;
+
+      padding-right: 3px;
+
+      scrollbar-width: thin;
+      scrollbar-color: #bbbbbb transparent;
     }
 
+    .list::-webkit-scrollbar {
+      width: 7px;
+    }
+
+    .list::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .list::-webkit-scrollbar-thumb {
+      background: #c7c7c7;
+      border-radius: 10px;
+    }
+
+    /* SHOW ROW */
+
     .card {
-      border-radius: var(--radius-md);
-      border: 1px solid rgba(38, 43, 63, 0.9);
-      background: rgba(8, 13, 26, 0.97);
-      padding: 10px 12px;
-      margin-bottom: 8px;
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
+      display: grid;
+
+      grid-template-columns:
+        minmax(220px, 1fr)
+        minmax(120px, .45fr)
+        auto;
+
+      align-items: center;
+
+      gap: 12px;
+
+      padding: 8px 10px;
+      margin-bottom: 5px;
+
+      border: 1px solid #e1e1e1;
+      border-left: 3px solid var(--gold);
+      border-radius: 4px;
+
+      background: #ffffff;
+
+      transition:
+        background .12s ease,
+        border-color .12s ease;
+    }
+
+    .card:hover {
+      background: #fafafa;
+      border-color: #d3d3d3;
+      border-left-color: var(--red);
     }
 
     .card-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 8px;
+      min-width: 0;
     }
 
     .show-name {
       margin: 0;
-      font-size: 1rem;
+
+      color: var(--black);
+
+      font-size: .91rem;
+      line-height: 1.25;
+      font-weight: 750;
     }
 
     .show-id {
-      font-size: 0.74rem;
-      color: var(--text-soft);
-      opacity: 0.85;
+      min-width: 0;
+
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+
+      color: var(--muted);
+
+      font-size: .68rem;
+      line-height: 1.25;
     }
+
+    /* DOWNLOAD BUTTON */
 
     .btn-row {
       display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-top: 2px;
+      justify-content: flex-end;
+      align-items: center;
+
+      margin: 0;
     }
 
     .btn {
-      border-radius: var(--radius-pill);
-      border: 1px solid var(--border);
-      background: rgba(15, 23, 42, 0.98);
-      color: var(--text-soft);
-      font-size: 0.8rem;
-      padding: 7px 13px;
-      cursor: pointer;
+      min-height: 32px;
+
+      padding: 0 11px;
+
+      border: 1px solid #cccccc;
+      border-radius: 4px;
+
+      background: #ffffff;
+      color: var(--muted);
+
+      font-size: .72rem;
+      font-weight: 700;
+
       text-decoration: none;
+
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      justify-content: center;
+
+      cursor: pointer;
     }
 
     .btn-primary {
-      border-color: var(--accent);
-      background: var(--accent-soft);
-      color: var(--accent);
-      font-weight: 500;
+      border-color: var(--red);
+
+      background: var(--red);
+      color: #ffffff;
+
+      font-weight: 800;
+
+      white-space: nowrap;
+
+      transition:
+        background .15s ease,
+        border-color .15s ease;
     }
 
+    .btn-primary:hover {
+      background: var(--red-dark);
+      border-color: var(--red-dark);
+    }
+
+    /* BOTTOM NOTE */
+
     .hint {
-      font-size: 0.78rem;
-      color: var(--text-soft);
-      opacity: 0.85;
-      margin-top: 2px;
+      margin-top: 9px;
+      padding-top: 8px;
+
+      border-top: 1px solid #eeeeee;
+
+      color: var(--muted);
+
+      font-size: .70rem;
+      line-height: 1.4;
+    }
+
+    .hint strong {
+      color: #444444;
     }
 
     .empty {
-      font-size: 0.9rem;
-      color: var(--text-soft);
+      padding: 28px 10px;
+
       text-align: center;
-      padding: 20px 10px;
+
+      color: var(--muted);
+
+      font-size: .85rem;
     }
 
     code {
-      font-size: 0.8rem;
-      background: rgba(17, 24, 39, 0.9);
       padding: 2px 4px;
-      border-radius: 4px;
+
+      border-radius: 3px;
+
+      background: #eeeeee;
+      color: #333333;
+
+      font-size: .78rem;
     }
 
-    @media (max-width: 640px) {
+    /* TABLET */
+
+    @media (max-width: 800px) {
+
+      .card {
+        grid-template-columns:
+          minmax(180px, 1fr)
+          auto;
+      }
+
+      .show-id {
+        display: none;
+      }
+
+    }
+
+    /* MOBILE */
+
+    @media (max-width: 600px) {
+
+      .app {
+        padding: 5px 6px 10px;
+      }
+
       header {
         align-items: flex-start;
+        flex-direction: column;
+
+        padding-bottom: 10px;
       }
+
+      h1 {
+        font-size: 1.15rem;
+      }
+
+      header p {
+        font-size: .78rem;
+      }
+
       .pill {
+        display: none;
+      }
+
+      .panel {
+        padding: 8px;
+      }
+
+      .top-row {
+        align-items: stretch;
+        flex-direction: column;
+      }
+
+      .search-box {
         width: 100%;
+      }
+
+      .count-label {
         text-align: right;
       }
+
+      .list {
+        max-height: 620px;
+      }
+
+      .card {
+        grid-template-columns: 1fr;
+
+        gap: 7px;
+
+        padding: 9px 10px;
+      }
+
+      .show-name {
+        font-size: .9rem;
+      }
+
+      .btn-row {
+        justify-content: flex-start;
+      }
+
+      .btn-primary {
+        width: 100%;
+      }
+
     }
   </style>
 </head>
+
+
 <body>
+
   <div class="app">
+
     <header>
-      <div>
+
+      <div class="title-wrap">
+
         <h1>
           <span class="logo-dot"></span>
           Golden Radio Hour – Show Downloads
         </h1>
-        <p>Download complete show archives as ZIP files for your own collection.</p>
+
+        <p>
+          Download complete old time radio show archives for your personal collection.
+        </p>
+
       </div>
+
       <div class="pill">
-        Listener tools · Full-show ZIP archives
+        Full-show ZIP archives
       </div>
+
     </header>
 
+
     <section class="panel">
+
       <div class="top-row">
+
         <div class="search-box">
+
           <input
             id="searchInput"
             type="text"
-            placeholder="Search shows by name or ID…"
+            placeholder="Search shows…"
           />
-          <button type="button" id="clearBtn">Clear</button>
+
+          <button
+            type="button"
+            id="clearBtn"
+          >
+            Clear
+          </button>
+
         </div>
-        <div class="count-label" id="countLabel">Loading…</div>
+
+        <div
+          class="count-label"
+          id="countLabel"
+        >
+          Loading…
+        </div>
+
       </div>
 
-      <div class="list" id="showList"></div>
+
+      <div
+        class="list"
+        id="showList"
+      ></div>
+
 
       <div class="hint">
-        Tip: If your browser opens the ZIP instead of saving it, right-click the download button and choose
+
+        Tip: If your browser opens the ZIP instead of downloading it,
+        right-click the download button and choose
         <strong>“Save link as…”</strong>.
+
       </div>
+
     </section>
+
   </div>
 
+
   <script>
-    // JSON this page expects: zipped_shows.json
-    // Format per entry:
-    // { "id": "ShowFolderName", "zipUrl": "https://.../ShowFolderName.zip", ...optional fields }
-    const JSON_URL = "zipped_shows.json";
+
+    const JSON_URL =
+      "zipped_shows.json";
+
 
     let allShows = [];
+
     let filteredShows = [];
 
-    const showListEl = document.getElementById("showList");
-    const searchInputEl = document.getElementById("searchInput");
-    const clearBtnEl = document.getElementById("clearBtn");
-    const countLabelEl = document.getElementById("countLabel");
+
+    const showListEl =
+      document.getElementById(
+        "showList"
+      );
+
+
+    const searchInputEl =
+      document.getElementById(
+        "searchInput"
+      );
+
+
+    const clearBtnEl =
+      document.getElementById(
+        "clearBtn"
+      );
+
+
+    const countLabelEl =
+      document.getElementById(
+        "countLabel"
+      );
+
 
     async function loadShows() {
+
       try {
-        const res = await fetch(JSON_URL, { cache: "no-cache" });
-        if (!res.ok) throw new Error("HTTP " + res.status);
-        const data = await res.json();
-        allShows = Array.isArray(data) ? data : [];
-        filteredShows = [...allShows];
-        renderList();
-      } catch (err) {
-        console.error("Failed to load zipped_shows.json", err);
-        showListEl.innerHTML = `
-          <div class="empty">
-            Could not load <code>zipped_shows.json</code>.<br/>
-            Make sure it’s in the same folder as this HTML file.
-          </div>
-        `;
-        countLabelEl.textContent = "Error loading shows";
-      }
-    }
 
-    function applyFilter() {
-      const q = searchInputEl.value.trim().toLowerCase();
-      filteredShows = allShows.filter(show => {
-        const id = (show.id || "").toLowerCase();
-        const name = (show.name || "").toLowerCase();
-        return !q || id.includes(q) || name.includes(q);
-      });
-      renderList();
-    }
+        const res =
+          await fetch(
+            JSON_URL,
+            {
+              cache: "no-cache"
+            }
+          );
 
-    function safeName(show) {
-      if (show.name && show.name.trim().length > 0) {
-        return show.name;
-      }
-      return show.id || "Untitled Show";
-    }
 
-    function renderList() {
-      showListEl.innerHTML = "";
+        if (!res.ok) {
 
-      if (!filteredShows.length) {
-        showListEl.innerHTML = `
-          <div class="empty">
-            No shows match your search. Try clearing the search box.
-          </div>
-        `;
-        countLabelEl.textContent = "0 shows";
-        return;
-      }
+          throw new Error(
+            "HTTP " +
+            res.status
+          );
 
-      filteredShows.forEach(show => {
-        const card = document.createElement("div");
-        card.className = "card";
-
-        const header = document.createElement("div");
-        header.className = "card-header";
-
-        const title = document.createElement("h2");
-        title.className = "show-name";
-        title.textContent = safeName(show);
-
-        const idLabel = document.createElement("div");
-        idLabel.className = "show-id";
-        idLabel.textContent = show.id || "";
-
-        header.appendChild(title);
-        header.appendChild(idLabel);
-
-        const btnRow = document.createElement("div");
-        btnRow.className = "btn-row";
-
-        if (show.zipUrl) {
-          const a = document.createElement("a");
-          a.className = "btn btn-primary";
-          a.href = encodeURI(show.zipUrl);
-          a.setAttribute("download", "");
-          a.textContent = "Download full show (ZIP)";
-          btnRow.appendChild(a);
-        } else {
-          const span = document.createElement("span");
-          span.className = "btn";
-          span.textContent = "No ZIP URL configured";
-          btnRow.appendChild(span);
         }
 
-        card.appendChild(header);
-        card.appendChild(btnRow);
 
-        showListEl.appendChild(card);
-      });
+        const data =
+          await res.json();
 
-      countLabelEl.textContent =
-        filteredShows.length + (filteredShows.length === 1 ? " show" : " shows");
+
+        allShows =
+          Array.isArray(data)
+            ? data
+            : [];
+
+
+        filteredShows =
+          [...allShows];
+
+
+        renderList();
+
+      }
+
+      catch (err) {
+
+        console.error(
+          "Failed to load zipped_shows.json",
+          err
+        );
+
+
+        showListEl.innerHTML = `
+
+          <div class="empty">
+
+            Could not load
+            <code>zipped_shows.json</code>.
+
+            <br/>
+
+            Make sure it is in the same folder as this HTML file.
+
+          </div>
+
+        `;
+
+
+        countLabelEl.textContent =
+          "Error loading shows";
+
+      }
+
     }
 
-    searchInputEl.addEventListener("input", applyFilter);
-    clearBtnEl.addEventListener("click", () => {
-      searchInputEl.value = "";
-      applyFilter();
-    });
+
+    function applyFilter() {
+
+      const q =
+        searchInputEl
+          .value
+          .trim()
+          .toLowerCase();
+
+
+      filteredShows =
+        allShows.filter(
+          show => {
+
+            const id =
+              (
+                show.id ||
+                ""
+              )
+              .toLowerCase();
+
+
+            const name =
+              (
+                show.name ||
+                ""
+              )
+              .toLowerCase();
+
+
+            return (
+
+              !q ||
+
+              id.includes(q) ||
+
+              name.includes(q)
+
+            );
+
+          }
+        );
+
+
+      renderList();
+
+    }
+
+
+    function safeName(show) {
+
+      if (
+        show.name &&
+        show.name.trim().length > 0
+      ) {
+
+        return show.name;
+
+      }
+
+
+      return (
+        show.id ||
+        "Untitled Show"
+      );
+
+    }
+
+
+    function renderList() {
+
+      showListEl.innerHTML =
+        "";
+
+
+      if (!filteredShows.length) {
+
+        showListEl.innerHTML = `
+
+          <div class="empty">
+
+            No shows match your search.
+
+            <br/>
+
+            Try clearing the search box.
+
+          </div>
+
+        `;
+
+
+        countLabelEl.textContent =
+          "0 shows";
+
+
+        return;
+
+      }
+
+
+      filteredShows.forEach(
+        show => {
+
+          const card =
+            document.createElement(
+              "div"
+            );
+
+
+          card.className =
+            "card";
+
+
+          const header =
+            document.createElement(
+              "div"
+            );
+
+
+          header.className =
+            "card-header";
+
+
+          const title =
+            document.createElement(
+              "h2"
+            );
+
+
+          title.className =
+            "show-name";
+
+
+          title.textContent =
+            safeName(show);
+
+
+          const idLabel =
+            document.createElement(
+              "div"
+            );
+
+
+          idLabel.className =
+            "show-id";
+
+
+          idLabel.textContent =
+            show.id ||
+            "";
+
+
+          header.appendChild(
+            title
+          );
+
+
+          const btnRow =
+            document.createElement(
+              "div"
+            );
+
+
+          btnRow.className =
+            "btn-row";
+
+
+          if (show.zipUrl) {
+
+            const a =
+              document.createElement(
+                "a"
+              );
+
+
+            a.className =
+              "btn btn-primary";
+
+
+            a.href =
+              encodeURI(
+                show.zipUrl
+              );
+
+
+            a.setAttribute(
+              "download",
+              ""
+            );
+
+
+            a.textContent =
+              "Download ZIP";
+
+
+            btnRow.appendChild(
+              a
+            );
+
+          }
+
+          else {
+
+            const span =
+              document.createElement(
+                "span"
+              );
+
+
+            span.className =
+              "btn";
+
+
+            span.textContent =
+              "No ZIP available";
+
+
+            btnRow.appendChild(
+              span
+            );
+
+          }
+
+
+          card.appendChild(
+            header
+          );
+
+
+          card.appendChild(
+            idLabel
+          );
+
+
+          card.appendChild(
+            btnRow
+          );
+
+
+          showListEl.appendChild(
+            card
+          );
+
+        }
+      );
+
+
+      countLabelEl.textContent =
+
+        filteredShows.length +
+
+        (
+          filteredShows.length === 1
+            ? " show"
+            : " shows"
+        );
+
+    }
+
+
+    searchInputEl.addEventListener(
+      "input",
+      applyFilter
+    );
+
+
+    clearBtnEl.addEventListener(
+      "click",
+      () => {
+
+        searchInputEl.value =
+          "";
+
+
+        applyFilter();
+
+      }
+    );
+
 
     loadShows();
+
   </script>
+
 </body>
 </html>
