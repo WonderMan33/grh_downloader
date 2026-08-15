@@ -1,55 +1,79 @@
 [
   {
     "id": "100ClassicalMusicMasterpieces",
-    "name": "100Classicalmusicmasterpieces",
+    "name": "100 Classical Music Masterpieces",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/100ClassicalMusicMasterpieces.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "390903-102-the-joy-shop",
-    "name": "390903 102 The Joy Shop",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/390903-102-the-joy-shop.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "abbott-costello-481216247itwastimeforachangeabbott-and-costello-show-1940-1949-old-time-radio",
-    "name": "Abbott Costello 481216247Itwastimeforachangeabbott And Costello Show 1940 1949 Old Time Radio",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/abbott-costello-481216247itwastimeforachangeabbott-and-costello-show-1940-1949-old-time-radio.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
     "id": "ADateWithJudy14Eps",
-    "name": "Adatewithjudy14Eps",
+    "name": "A Date with Judy",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/ADateWithJudy14Eps.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "adventures_holmes",
-    "name": "Adventures Holmes",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/adventures_holmes.zip",
+    "id": "OTRR_Man_Called_X_Singles",
+    "name": "A Man Called X",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Man_Called_X_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "abbott-costello-481216247itwastimeforachangeabbott-and-costello-show-1940-1949-old-time-radio",
+    "name": "Abbott and Costello",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/abbott-costello-481216247itwastimeforachangeabbott-and-costello-show-1940-1949-old-time-radio.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Academy_Award_Theater_Singles",
+    "name": "Academy Award Theater",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Academy_Award_Theater_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_American_History_Singles",
+    "name": "American History",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_American_History_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "animalfarmtamsingreigatobyj",
-    "name": "Animalfarmtamsingreigatobyj",
+    "name": "Animal Farm - BBC Radio",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/animalfarmtamsingreigatobyj.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "OTRR_Barrie_Craig_Singles",
+    "name": "Barrie Craig",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Barrie_Craig_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "BBCMarlowe",
+    "name": "BBC Philip Marlowe",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/BBCMarlowe.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "bbc-sci-fi-radio-plays-part-five",
-    "name": "Bbc Sci Fi Radio Plays Part Five",
+    "name": "BBC Sci-Fi Radio Plays - Part 5",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bbc-sci-fi-radio-plays-part-five.zip",
     "description": "",
     "genres": [],
@@ -57,279 +81,55 @@
   },
   {
     "id": "bbc-sci-fi-radio-plays-part-nine",
-    "name": "Bbc Sci Fi Radio Plays Part Nine",
+    "name": "BBC Sci-Fi Radio Plays - Part 9",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bbc-sci-fi-radio-plays-part-nine.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "BBCMarlowe",
-    "name": "Bbcmarlowe",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/BBCMarlowe.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
     "id": "beyond-midnight-xx-xx-xx-xx-cassius-touch",
-    "name": "Beyond Midnight Xx Xx Xx Xx Cassius Touch",
+    "name": "Beyond Midnight - The Cassius Touch",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/beyond-midnight-xx-xx-xx-xx-cassius-touch.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "bob-and-ray-1948-08-26-roving-reporter-ray-goulding",
-    "name": "Bob And Ray 1948 08 26 Roving Reporter Ray Goulding",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bob-and-ray-1948-08-26-roving-reporter-ray-goulding.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "bobandraycompletecollection",
-    "name": "Bobandraycompletecollection",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bobandraycompletecollection.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "cbs-complete-broadcast-day-d-day-1944-06-06-part-001",
-    "name": "Cbs Complete Broadcast Day D Day 1944 06 06 Part 001",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbs-complete-broadcast-day-d-day-1944-06-06-part-001.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "cbsmtfs5",
-    "name": "Cbsmtfs5",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbsmtfs5.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "cbsmtfs6",
-    "name": "Cbsmtfs6",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbsmtfs6.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "cbsrmt-74-02-08-33-conspiracy-to-defraud",
-    "name": "Cbsrmt 74 02 08 33 Conspiracy To Defraud",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbsrmt-74-02-08-33-conspiracy-to-defraud.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "drive-download-20240708T100218Z-001",
-    "name": "Drive Download 20240708T100218Z 001",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/drive-download-20240708T100218Z-001.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "encore-theater-1946-08-27-13-disputed-passage",
-    "name": "Encore Theater 1946 08 27 13 Disputed Passage",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/encore-theater-1946-08-27-13-disputed-passage.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "fibber-mc-gee-and-molly",
-    "name": "Fibber Mc Gee And Molly",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/fibber-mc-gee-and-molly.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "have-gun-will-travel",
-    "name": "Have Gun Will Travel",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/have-gun-will-travel.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "hitchhikers-guide-to-the-galaxy-bbcr4",
-    "name": "Hitchhikers Guide To The Galaxy Bbcr4",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/hitchhikers-guide-to-the-galaxy-bbcr4.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "l-a-1953-11-20-xx-thanksgiving-in-pine-ridge",
-    "name": "L A 1953 11 20 Xx Thanksgiving In Pine Ridge",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/l-a-1953-11-20-xx-thanksgiving-in-pine-ridge.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "LetGeorgeDoIt1948",
-    "name": "Letgeorgedoit1948",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/LetGeorgeDoIt1948.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "lights-out_20200820",
-    "name": "Lights Out 20200820",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/lights-out_20200820.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "LightsOutoldTimeRadio",
-    "name": "Lightsoutoldtimeradio",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/LightsOutoldTimeRadio.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "lord-of-the-rings-10_202401",
-    "name": "Lord Of The Rings 10 202401",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/lord-of-the-rings-10_202401.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Lux_Radio_Theatre_Digitally_Restored_Collection",
-    "name": "Lux Radio Theatre Digitally Restored Collection",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Lux_Radio_Theatre_Digitally_Restored_Collection.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "mercury-theater-1938-07-18-2-treasure-island",
-    "name": "Mercury Theater 1938 07 18 2 Treasure Island",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/mercury-theater-1938-07-18-2-treasure-island.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "MysteryIsMyHobby2 (1)",
-    "name": "Mysteryismyhobby2 (1)",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/MysteryIsMyHobby2 (1).zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "nbc-university-theater-1948-10-17-13-history-of-mr-polly",
-    "name": "Nbc University Theater 1948 10 17 13 History Of Mr Polly",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/nbc-university-theater-1948-10-17-13-history-of-mr-polly.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "NeroWolfe",
-    "name": "Nerowolfe",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/NeroWolfe.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "nick-carter",
-    "name": "Nick Carter",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/nick-carter.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Old_Radio_Adverts_01",
-    "name": "Old Radio Adverts 01",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Old_Radio_Adverts_01.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "oldtimeyradioshowscollection",
-    "name": "Oldtimeyradioshowscollection",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/oldtimeyradioshowscollection.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OrsonWelles-MercuryTheater-1938Recordings",
-    "name": "Orsonwelles Mercurytheater 1938Recordings",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OrsonWelles-MercuryTheater-1938Recordings.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "otr_geneautry_64kb_mp3",
-    "name": "Otr Geneautry 64Kb Mp3",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/otr_geneautry_64kb_mp3.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
     "id": "OtrBlondie",
-    "name": "Otrblondie",
+    "name": "Blondie",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OtrBlondie.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_American_History_Singles",
-    "name": "Otrr American History Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_American_History_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Barrie_Craig_Singles",
-    "name": "Otrr Barrie Craig Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Barrie_Craig_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Black_Museum_Singles",
-    "name": "Otrr Black Museum Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Black_Museum_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
     "id": "OTRR_Blue_Beetle_Singles",
-    "name": "Otrr Blue Beetle Singles",
+    "name": "Blue Beetle",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Blue_Beetle_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "bobandraycompletecollection",
+    "name": "Bob and Ray - Complete Collection",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bobandraycompletecollection.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "bob-and-ray-1948-08-26-roving-reporter-ray-goulding",
+    "name": "Bob and Ray - Roving Reporter",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bob-and-ray-1948-08-26-roving-reporter-ray-goulding.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_Boston_Blackie_Singles",
-    "name": "Otrr Boston Blackie Singles",
+    "name": "Boston Blackie",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Boston_Blackie_Singles.zip",
     "description": "",
     "genres": [],
@@ -337,15 +137,23 @@
   },
   {
     "id": "OTRR_Box_13_Singles",
-    "name": "Otrr Box 13 Singles",
+    "name": "Box 13",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Box_13_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "OTRR_Certified_Bright_Star_Ver3.1_CD_1of1",
+    "name": "Bright Star",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Bright_Star_Ver3.1_CD_1of1.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_Broadway_Is_My_Beat_Singles",
-    "name": "Otrr Broadway Is My Beat Singles",
+    "name": "Broadway Is My Beat",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Broadway_Is_My_Beat_Singles.zip",
     "description": "",
     "genres": [],
@@ -353,7 +161,7 @@
   },
   {
     "id": "OTRR_Candy_Matson_Singles",
-    "name": "Otrr Candy Matson Singles",
+    "name": "Candy Matson",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Candy_Matson_Singles.zip",
     "description": "",
     "genres": [],
@@ -361,207 +169,55 @@
   },
   {
     "id": "OTRR_Casey_Crime_Photographer_Singles",
-    "name": "Otrr Casey Crime Photographer Singles",
+    "name": "Casey, Crime Photographer",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Casey_Crime_Photographer_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "cbs-complete-broadcast-day-d-day-1944-06-06-part-001",
+    "name": "CBS Complete Broadcast Day - D-Day 1944",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbs-complete-broadcast-day-d-day-1944-06-06-part-001.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "cbsmtfs5",
+    "name": "CBS Radio Mystery Theater - Collection 5",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbsmtfs5.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "cbsmtfs6",
+    "name": "CBS Radio Mystery Theater - Collection 6",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbsmtfs6.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "cbsrmt-74-02-08-33-conspiracy-to-defraud",
+    "name": "CBS Radio Mystery Theater - Conspiracy to Defraud",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbsrmt-74-02-08-33-conspiracy-to-defraud.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_CBS_Radio_Workshop_Singles",
-    "name": "Otrr Cbs Radio Workshop Singles",
+    "name": "CBS Radio Workshop",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_CBS_Radio_Workshop_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Certified_Bright_Star_Ver3.1_CD_1of1",
-    "name": "Otrr Certified Bright Star Ver3.1 Cd 1Of1",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Bright_Star_Ver3.1_CD_1of1.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Crime_and_Peter_Chambers_Ver1.1_CD_1of1",
-    "name": "Otrr Certified Crime And Peter Chambers Ver1.1 Cd 1Of1",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Crime_and_Peter_Chambers_Ver1.1_CD_1of1.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Dimension_X_Ver1_CD_1of2",
-    "name": "Otrr Certified Dimension X Ver1 Cd 1Of2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Dimension_X_Ver1_CD_1of2.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Dimension_X_Ver1_CD_2of2",
-    "name": "Otrr Certified Dimension X Ver1 Cd 2Of2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Dimension_X_Ver1_CD_2of2.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Halls_of_Ivy",
-    "name": "Otrr Certified Halls Of Ivy",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Halls_of_Ivy.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Let_George_Do_It",
-    "name": "Otrr Certified Let George Do It",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Let_George_Do_It.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Matinee_Theater_Ver1_CD_1of1",
-    "name": "Otrr Certified Matinee Theater Ver1 Cd 1Of1",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Matinee_Theater_Ver1_CD_1of1.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Sealed_Book",
-    "name": "Otrr Certified Sealed Book",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Sealed_Book.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Sealed_Book_Ver1_CD_1of2",
-    "name": "Otrr Certified Sealed Book Ver1 Cd 1Of2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Sealed_Book_Ver1_CD_1of2.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Sealed_Book_Ver1_CD_2of2",
-    "name": "Otrr Certified Sealed Book Ver1 Cd 2Of2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Sealed_Book_Ver1_CD_2of2.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Strange_Wills",
-    "name": "Otrr Certified Strange Wills",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Strange_Wills.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_1of7",
-    "name": "Otrr Certified Theater Five Ver1 Cd 1Of7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_1of7.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_2of7",
-    "name": "Otrr Certified Theater Five Ver1 Cd 2Of7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_2of7.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_3of7",
-    "name": "Otrr Certified Theater Five Ver1 Cd 3Of7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_3of7.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_4of7",
-    "name": "Otrr Certified Theater Five Ver1 Cd 4Of7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_4of7.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_5of7",
-    "name": "Otrr Certified Theater Five Ver1 Cd 5Of7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_5of7.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_6of7",
-    "name": "Otrr Certified Theater Five Ver1 Cd 6Of7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_6of7.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_7of7",
-    "name": "Otrr Certified Theater Five Ver1 Cd 7Of7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_7of7.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_01of22",
-    "name": "Otrr Certified Ytjd Ver2 Cd 01Of22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_01of22.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_02of22",
-    "name": "Otrr Certified Ytjd Ver2 Cd 02Of22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_02of22.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_03of22",
-    "name": "Otrr Certified Ytjd Ver2 Cd 03Of22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_03of22.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_04of22",
-    "name": "Otrr Certified Ytjd Ver2 Cd 04Of22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_04of22.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_05of22",
-    "name": "Otrr Certified Ytjd Ver2 Cd 05Of22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_05of22.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
     "id": "OTRR_Challenge_of_the_Yukon_Singles",
-    "name": "Otrr Challenge Of The Yukon Singles",
+    "name": "Challenge of the Yukon",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Challenge_of_the_Yukon_Singles.zip",
     "description": "",
     "genres": [],
@@ -569,7 +225,7 @@
   },
   {
     "id": "OTRR_Chet_Chetters_Tales_from_the_Morgue_Singles",
-    "name": "Otrr Chet Chetters Tales From The Morgue Singles",
+    "name": "Chet Chetter's Tales from the Morgue",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Chet_Chetters_Tales_from_the_Morgue_Singles.zip",
     "description": "",
     "genres": [],
@@ -577,23 +233,39 @@
   },
   {
     "id": "OTRR_Cloak_and_Dagger_Singles (1)",
-    "name": "Otrr Cloak And Dagger Singles (1)",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Cloak_and_Dagger_Singles (1).zip",
+    "name": "Cloak and Dagger",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Cloak_and_Dagger_Singles%20%281%29.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Curated_Under_Arrest_v2206_CD_1of1",
-    "name": "Otrr Curated Under Arrest V2206 Cd 1Of1",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Curated_Under_Arrest_v2206_CD_1of1.zip",
+    "id": "columbia-workshop-1938-07-23-100-murder-in-the-cathedral",
+    "name": "Columbia Workshop - Murder in the Cathedral",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/columbia-workshop-1938-07-23-100-murder-in-the-cathedral.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Crime_and_Peter_Chambers_Ver1.1_CD_1of1",
+    "name": "Crime And Peter Chambers",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Crime_and_Peter_Chambers_Ver1.1_CD_1of1.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Danger_Dr_Danfield_Singles",
+    "name": "Danger, Dr. Danfield",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Danger_Dr_Danfield_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "Otrr_Dangerous_Assignment_Singles",
-    "name": "Otrr Dangerous Assignment Singles",
+    "name": "Dangerous Assignment",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Otrr_Dangerous_Assignment_Singles.zip",
     "description": "",
     "genres": [],
@@ -601,7 +273,7 @@
   },
   {
     "id": "OTRR_Dangerously_Yours_Singles",
-    "name": "Otrr Dangerously Yours Singles",
+    "name": "Dangerously Yours",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Dangerously_Yours_Singles.zip",
     "description": "",
     "genres": [],
@@ -609,71 +281,151 @@
   },
   {
     "id": "OTRR_Dark_Fantasy_Singles",
-    "name": "Otrr Dark Fantasy Singles",
+    "name": "Dark Fantasy",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Dark_Fantasy_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "OTRR_Certified_Dimension_X_Ver1_CD_1of2",
+    "name": "Dimension X - Disc 1 of 2",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Dimension_X_Ver1_CD_1of2.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Dimension_X_Ver1_CD_2of2",
+    "name": "Dimension X - Disc 2 of 2",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Dimension_X_Ver1_CD_2of2.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_Dr_Kildare_Singles",
-    "name": "Otrr Dr Kildare Singles",
+    "name": "Dr. Kildare",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Dr_Kildare_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Falcon_Singles",
-    "name": "Otrr Falcon Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Falcon_Singles.zip",
+    "id": "duffys-tavern-1947-12-03-263-jean-sablon",
+    "name": "Duffy's Tavern - Jean Sablon",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/duffys-tavern-1947-12-03-263-jean-sablon.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "encore-theater-1946-08-27-13-disputed-passage",
+    "name": "Encore Theater - Disputed Passage",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/encore-theater-1946-08-27-13-disputed-passage.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "OTRR_Father_Knows_Best_Singles",
-    "name": "Otrr Father Knows Best Singles",
+    "name": "Father Knows Best",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Father_Knows_Best_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "fibber-mc-gee-and-molly",
+    "name": "Fibber McGee and Molly",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/fibber-mc-gee-and-molly.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_Fort_Laramie_Singles",
-    "name": "Otrr Fort Laramie Singles",
+    "name": "Fort Laramie",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Fort_Laramie_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Frank_Race_Singles",
-    "name": "Otrr Frank Race Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Frank_Race_Singles.zip",
+    "id": "fu manchu__390903-102-the-joy-shop",
+    "name": "Fu Manchu - The Joy Shop",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/fu%20manchu/390903-102-the-joy-shop.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "otr_geneautry_64kb_mp3",
+    "name": "Gene Autry",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/otr_geneautry_64kb_mp3.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "OTRR_Harey_Lime_Singles",
-    "name": "Otrr Harey Lime Singles",
+    "name": "Harry Lime",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Harey_Lime_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "have-gun-will-travel",
+    "name": "Have Gun, Will Travel",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/have-gun-will-travel.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "HearthstoneoftheDeathsquad",
+    "name": "Hearthstone of the Death Squad",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/HearthstoneoftheDeathsquad.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Maintained_In_the_Name_of_the_Law_v2304_CD_1of1",
+    "name": "In The Name Of The Law",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Maintained_In_the_Name_of_the_Law_v2304_CD_1of1.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_Inner_Sanctum_Mysteries_Singles",
-    "name": "Otrr Inner Sanctum Mysteries Singles",
+    "name": "Inner Sanctum Mysteries",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Inner_Sanctum_Mysteries_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "InspectorThorne",
+    "name": "Inspector Thorne",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/InspectorThorne.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "Its_A_Crime_Mr_Collins",
+    "name": "It's a Crime, Mr. Collins",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Its_A_Crime_Mr_Collins.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_Jeff_Regan_Singles",
-    "name": "Otrr Jeff Regan Singles",
+    "name": "Jeff Regan, Investigator",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Jeff_Regan_Singles.zip",
     "description": "",
     "genres": [],
@@ -681,55 +433,111 @@
   },
   {
     "id": "OTRR_John_Steele_Adventurer_Singles",
-    "name": "Otrr John Steele Adventurer Singles",
+    "name": "John Steele, Adventurer",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_John_Steele_Adventurer_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "LetGeorgeDoIt1948",
+    "name": "Let George Do It",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/LetGeorgeDoIt1948.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Let_George_Do_It",
+    "name": "Let George Do It",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Let_George_Do_It.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "lights-out_20200820",
+    "name": "Lights Out",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/lights-out_20200820.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "LightsOutoldTimeRadio",
+    "name": "Lights Out",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/LightsOutoldTimeRadio.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_Luke_Slaughter_Of_Tombstone_Singles",
-    "name": "Otrr Luke Slaughter Of Tombstone Singles",
+    "name": "Luke Slaughter of Tombstone",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Luke_Slaughter_Of_Tombstone_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Maintained_In_the_Name_of_the_Law_v2304_CD_1of1",
-    "name": "Otrr Maintained In The Name Of The Law V2304 Cd 1Of1",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Maintained_In_the_Name_of_the_Law_v2304_CD_1of1.zip",
+    "id": "l-a-1953-11-20-xx-thanksgiving-in-pine-ridge",
+    "name": "Lum and Abner - Thanksgiving in Pine Ridge",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/l-a-1953-11-20-xx-thanksgiving-in-pine-ridge.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Maintained_Phillip_Marlowe_v2005_DVD_1of1",
-    "name": "Otrr Maintained Phillip Marlowe V2005 Dvd 1Of1",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Maintained_Phillip_Marlowe_v2005_DVD_1of1.zip",
+    "id": "Lux_Radio_Theatre_Digitally_Restored_Collection",
+    "name": "Lux Radio Theatre",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Lux_Radio_Theatre_Digitally_Restored_Collection.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Man_Called_X_Singles",
-    "name": "Otrr Man Called X Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Man_Called_X_Singles.zip",
+    "id": "OTRR_Mama_Blooms_Brood_Singles",
+    "name": "Mama Bloom's Brood",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mama_Blooms_Brood_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Mel_Blanc_Singles",
-    "name": "Otrr Mel Blanc Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mel_Blanc_Singles.zip",
+    "id": "OTRR_Certified_Matinee_Theater_Ver1_CD_1of1",
+    "name": "Matinee Theater",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Matinee_Theater_Ver1_CD_1of1.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "Mathew_Slade_Private_Investigator",
+    "name": "Matthew Slade, Private Investigator",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Mathew_Slade_Private_Investigator.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "mercury-theater-1938-07-18-2-treasure-island",
+    "name": "Mercury Theatre - Treasure Island",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/mercury-theater-1938-07-18-2-treasure-island.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "MikeHammer",
+    "name": "Mike Hammer",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/MikeHammer.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "OTRR_Molle_Mystery_Theatre_Singles",
-    "name": "Otrr Molle Mystery Theatre Singles",
+    "name": "Molle Mystery Theatre",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Molle_Mystery_Theatre_Singles.zip",
     "description": "",
     "genres": [],
@@ -737,7 +545,7 @@
   },
   {
     "id": "OTRR_Mr_District_Attorney_Singles",
-    "name": "Otrr Mr District Attorney Singles",
+    "name": "Mr. District Attorney",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mr_District_Attorney_Singles.zip",
     "description": "",
     "genres": [],
@@ -745,39 +553,63 @@
   },
   {
     "id": "OTRR_Mr_Keen_Tracer_Of_Lost_Persons_Singles",
-    "name": "Otrr Mr Keen Tracer Of Lost Persons Singles",
+    "name": "Mr. Keen, Tracer of Lost Persons",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mr_Keen_Tracer_Of_Lost_Persons_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Mysterious_Traveler_Singles",
-    "name": "Otrr Mysterious Traveler Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mysterious_Traveler_Singles.zip",
+    "id": "Murder_Clinic",
+    "name": "Murder Clinic",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Murder_Clinic.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "OTRR_Mystery_House_Singles",
-    "name": "Otrr Mystery House Singles",
+    "name": "Mystery House",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mystery_House_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
-    "name": "Otrr New Adventures Of Nero Wolfe Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_New_Adventures_of_Nero_Wolfe_Singles.zip",
+    "id": "MysteryIsMyHobby2 (1)",
+    "name": "Mystery Is My Hobby",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/MysteryIsMyHobby2%20%281%29.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "nbc-university-theater-1948-10-17-13-history-of-mr-polly",
+    "name": "NBC University Theater - The History of Mr. Polly",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/nbc-university-theater-1948-10-17-13-history-of-mr-polly.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "NeroWolfe",
+    "name": "Nero Wolfe",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/NeroWolfe.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "nick-carter",
+    "name": "Nick Carter, Master Detective",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/nick-carter.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "OTRR_Nick_Carter_Master_Detective_Singles",
-    "name": "Otrr Nick Carter Master Detective Singles",
+    "name": "Nick Carter, Master Detective",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Nick_Carter_Master_Detective_Singles.zip",
     "description": "",
     "genres": [],
@@ -785,7 +617,7 @@
   },
   {
     "id": "OTRR_Obsession_Singles",
-    "name": "Otrr Obsession Singles",
+    "name": "Obsession",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Obsession_Singles.zip",
     "description": "",
     "genres": [],
@@ -793,239 +625,87 @@
   },
   {
     "id": "OTRR_Old_Gold_Comedy_Theater_Singles",
-    "name": "Otrr Old Gold Comedy Theater Singles",
+    "name": "Old Gold Comedy Theater",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Old_Gold_Comedy_Theater_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "Old_Radio_Adverts_01",
+    "name": "Old Radio Advertisements",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Old_Radio_Adverts_01.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "drive-download-20240708T100218Z-001",
+    "name": "Old Time Radio Collection",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/drive-download-20240708T100218Z-001.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "oldtimeyradioshowscollection",
+    "name": "Old Time Radio Shows Collection",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/oldtimeyradioshowscollection.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OrsonWelles-MercuryTheater-1938Recordings",
+    "name": "Orson Welles - Mercury Theatre",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OrsonWelles-MercuryTheater-1938Recordings.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_Pat_Novak_Singles",
-    "name": "Otrr Pat Novak Singles",
+    "name": "Pat Novak, for Hire",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Pat_Novak_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "OTRR_Maintained_Phillip_Marlowe_v2005_DVD_1of1",
+    "name": "Philip Marlowe",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Maintained_Phillip_Marlowe_v2005_DVD_1of1.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "OTRR_Philo_Vance_Singles",
-    "name": "Otrr Philo Vance Singles",
+    "name": "Philo Vance",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Philo_Vance_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "OTRR_Railroad_Hour_Singles",
-    "name": "Otrr Railroad Hour Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Railroad_Hour_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Ranger_Bill_Singles",
-    "name": "Otrr Ranger Bill Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Ranger_Bill_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Rocky_Fortune_Singles",
-    "name": "Otrr Rocky Fortune Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Rocky_Fortune_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Rogues_Gallery_Singles",
-    "name": "Otrr Rogues Gallery Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Rogues_Gallery_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Roy_Rogers_Singles",
-    "name": "Otrr Roy Rogers Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Roy_Rogers_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Sears_Radio_Theater_Singles",
-    "name": "Otrr Sears Radio Theater Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Sears_Radio_Theater_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Secrets_Of_Scotland_Yard_Singles",
-    "name": "Otrr Secrets Of Scotland Yard Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Secrets_Of_Scotland_Yard_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Stand_By_For_Crime_Singles",
-    "name": "Otrr Stand By For Crime Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Stand_By_For_Crime_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Suspense_Singles",
-    "name": "Otrr Suspense Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Suspense_Singles_By_Year_1962",
-    "name": "Otrr Suspense Singles By Year 1962",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles_By_Year_1962.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Tales_of_the_Texas_Rangers_Single",
-    "name": "Otrr Tales Of The Texas Rangers Single",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Tales_of_the_Texas_Rangers_Single.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Tarzan_Singles_TotA",
-    "name": "Otrr Tarzan Singles Tota",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Tarzan_Singles_TotA.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_The_Big_Show_Singles",
-    "name": "Otrr The Big Show Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_The_Big_Show_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_The_Devil_And_Mr_O_Singles",
-    "name": "Otrr The Devil And Mr O Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_The_Devil_And_Mr_O_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Otrr_The_Great_Gildersleeve_Singles",
-    "name": "Otrr The Great Gildersleeve Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Otrr_The_Great_Gildersleeve_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_The_Six_Shooter_Singles",
-    "name": "Otrr The Six Shooter Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_The_Six_Shooter_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Theatre_Royal_Singles",
-    "name": "Otrr Theatre Royal Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Theatre_Royal_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_This_Is_Your_FBI_Singles",
-    "name": "Otrr This Is Your Fbi Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_This_Is_Your_FBI_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Weird_Circle_Singles",
-    "name": "Otrr Weird Circle Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Weird_Circle_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Whistler_Singles",
-    "name": "Otrr Whistler Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Whistler_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Whitehall_1212_Singles",
-    "name": "Otrr Whitehall 1212 Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Whitehall_1212_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Wild_Bill_Hickock_Singles",
-    "name": "Otrr Wild Bill Hickock Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Wild_Bill_Hickock_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Words_At_War_Singles",
-    "name": "Otrr Words At War Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Words_At_War_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_X_Minus_One_Singles",
-    "name": "Otrr X Minus One Singles",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_X_Minus_One_Singles.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_YoursTrulyJohnnyDollar_Singles (1)",
-    "name": "Otrr Yourstrulyjohnnydollar Singles (1)",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_YoursTrulyJohnnyDollar_Singles (1).zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
     "id": "PopeyeTheSailor",
-    "name": "Popeyethesailor",
+    "name": "Popeye the Sailor",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/PopeyeTheSailor.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "OTRR_Ranger_Bill_Singles",
+    "name": "Ranger Bill",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Ranger_Bill_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "RayBradburyBBCr4",
-    "name": "Raybradburybbcr4",
+    "name": "Ray Bradbury - BBC Radio 4",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/RayBradburyBBCr4.zip",
     "description": "",
     "genres": [],
@@ -1040,24 +720,40 @@
     "tags": []
   },
   {
-    "id": "red-skelton-show_202008",
-    "name": "Red Skelton Show 202008",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/red-skelton-show_202008.zip",
+    "id": "OTRR_Rocky_Fortune_Singles",
+    "name": "Rocky Fortune",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Rocky_Fortune_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "sam-spade",
-    "name": "Sam Spade",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/sam-spade.zip",
+    "id": "RockyJordan",
+    "name": "Rocky Jordan",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/RockyJordan.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Rogues_Gallery_Singles",
+    "name": "Rogues Gallery",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Rogues_Gallery_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Roy_Rogers_Singles",
+    "name": "Roy Rogers",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Roy_Rogers_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "screen-guild-theater-1939-01-08-1-variety-review-1-begin-gulf-screen-guild-show",
-    "name": "Screen Guild Theater 1939 01 08 1 Variety Review 1 Begin Gulf Screen Guild Show",
+    "name": "Screen Guild Theater",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/screen-guild-theater-1939-01-08-1-variety-review-1-begin-gulf-screen-guild-show.zip",
     "description": "",
     "genres": [],
@@ -1065,103 +761,591 @@
   },
   {
     "id": "sealtest-variety-theater-1948-10-21-6-happy-ending",
-    "name": "Sealtest Variety Theater 1948 10 21 6 Happy Ending",
+    "name": "Sealtest Variety Theater - Happy Ending",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/sealtest-variety-theater-1948-10-21-6-happy-ending.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "stories-of-sherlock-holmes-sa-85-04-28-x-the-sarussi-pea",
-    "name": "Stories Of Sherlock Holmes Sa 85 04 28 X The Sarussi Pea",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/stories-of-sherlock-holmes-sa-85-04-28-x-the-sarussi-pea.zip",
+    "id": "OTRR_Sears_Radio_Theater_Singles",
+    "name": "Sears Radio Theater",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Sears_Radio_Theater_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Secrets_Of_Scotland_Yard_Singles",
+    "name": "Secrets of Scotland Yard",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Secrets_Of_Scotland_Yard_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "tcssherlockholmesjohnstanleyhq2",
-    "name": "Tcssherlockholmesjohnstanleyhq2",
+    "name": "Sherlock Holmes - John Stanley Collection",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/tcssherlockholmesjohnstanleyhq2.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "the-shadow-1938-10-09-141-death-stalks-the-shadow",
-    "name": "The Shadow 1938 10 09 141 Death Stalks The Shadow",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/the-shadow-1938-10-09-141-death-stalks-the-shadow.zip",
+    "id": "OTRR_Stand_By_For_Crime_Singles",
+    "name": "Stand By for Crime",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Stand_By_For_Crime_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "stories-of-sherlock-holmes-sa-85-04-28-x-the-sarussi-pea",
+    "name": "Stories of Sherlock Holmes - The Sarussi Pea",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/stories-of-sherlock-holmes-sa-85-04-28-x-the-sarussi-pea.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Strange_Wills",
+    "name": "Strange Wills",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Strange_Wills.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Strange_Wills__OTRR_Certified_Strange_Wills_Ver1_CD_1of2",
+    "name": "Strange Wills - Disc 1 of 2",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Strange_Wills/OTRR_Certified_Strange_Wills_Ver1_CD_1of2.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Strange_Wills__OTRR_Certified_Strange_Wills_Ver1_CD_2of2",
+    "name": "Strange Wills - Disc 2 of 2",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Strange_Wills/OTRR_Certified_Strange_Wills_Ver1_CD_2of2.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Suspense_Singles",
+    "name": "Suspense",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Suspense_Singles_By_Year_1957",
+    "name": "Suspense - 1957",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles_By_Year_1957.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Suspense_Singles_By_Year_1958",
+    "name": "Suspense - 1958",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles_By_Year_1958.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Suspense_Singles_By_Year_1962",
+    "name": "Suspense - 1962",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles_By_Year_1962.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Tales_of_the_Texas_Rangers_Single",
+    "name": "Tales of the Texas Rangers",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Tales_of_the_Texas_Rangers_Single.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Tarzan_Singles_TotA",
+    "name": "Tarzan",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Tarzan_Singles_TotA.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Frank_Race_Singles",
+    "name": "The Adventures of Frank Race",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Frank_Race_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "sam-spade",
+    "name": "The Adventures of Sam Spade",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/sam-spade.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "adventures_holmes",
+    "name": "The Adventures of Sherlock Holmes",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/adventures_holmes.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "Adventures_Of_The_Abbotts",
+    "name": "The Adventures of the Abbotts",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Adventures_Of_The_Abbotts.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_The_Big_Show_Singles",
+    "name": "The Big Show",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_The_Big_Show_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Black_Museum_Singles",
+    "name": "The Black Museum",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Black_Museum_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "The_Chase_OTR",
+    "name": "The Chase",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/The_Chase_OTR.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Damon_Runyon_Singles",
+    "name": "The Damon Runyon Theatre",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Damon_Runyon_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_The_Devil_And_Mr_O_Singles",
+    "name": "The Devil and Mr. O",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_The_Devil_And_Mr_O_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Falcon_Singles",
+    "name": "The Falcon",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Falcon_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "Otrr_The_Great_Gildersleeve_Singles",
+    "name": "The Great Gildersleeve",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Otrr_The_Great_Gildersleeve_Singles.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
     "id": "TheGreenHornet",
-    "name": "Thegreenhornet",
+    "name": "The Green Hornet",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/TheGreenHornet.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "OTRR_Certified_Halls_of_Ivy",
+    "name": "The Halls of Ivy",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Halls_of_Ivy.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "hitchhikers-guide-to-the-galaxy-bbcr4",
+    "name": "The Hitchhiker's Guide to the Galaxy - BBC Radio 4",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/hitchhikers-guide-to-the-galaxy-bbcr4.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "390903-102-the-joy-shop",
+    "name": "The Joy Shop",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/390903-102-the-joy-shop.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "TheLadyDetectivesBBCr4",
-    "name": "Theladydetectivesbbcr4",
+    "name": "The Lady Detectives - BBC Radio 4",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/TheLadyDetectivesBBCr4.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "lord-of-the-rings-10_202401",
+    "name": "The Lord of the Rings",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/lord-of-the-rings-10_202401.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Mel_Blanc_Singles",
+    "name": "The Mel Blanc Show",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mel_Blanc_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Mysterious_Traveler_Singles",
+    "name": "The Mysterious Traveler",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mysterious_Traveler_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
+    "name": "The New Adventures of Nero Wolfe",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_New_Adventures_of_Nero_Wolfe_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Harris_Faye_Singles",
+    "name": "The Phil Harris-Alice Faye Show",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Harris_Faye_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "ThePrivateFilesOfRexSaunders",
+    "name": "The Private Files of Rex Saunders",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/ThePrivateFilesOfRexSaunders.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Railroad_Hour_Singles",
+    "name": "The Railroad Hour",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Railroad_Hour_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "red-skelton-show_202008",
+    "name": "The Red Skelton Show",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/red-skelton-show_202008.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "TheSaintVincentPriceOTR",
-    "name": "Thesaintvincentpriceotr",
+    "name": "The Saint - Vincent Price",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/TheSaintVincentPriceOTR.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "OTRR_Certified_Sealed_Book",
+    "name": "The Sealed Book",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Sealed_Book.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Sealed_Book_Ver1_CD_1of2",
+    "name": "The Sealed Book - Disc 1 of 2",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Sealed_Book_Ver1_CD_1of2.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Sealed_Book_Ver1_CD_2of2",
+    "name": "The Sealed Book - Disc 2 of 2",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Sealed_Book_Ver1_CD_2of2.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "the-shadow-1938-10-09-141-death-stalks-the-shadow",
+    "name": "The Shadow - Death Stalks the Shadow",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/the-shadow-1938-10-09-141-death-stalks-the-shadow.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_The_Six_Shooter_Singles",
+    "name": "The Six Shooter",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_The_Six_Shooter_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "thinmanotr_201412",
-    "name": "Thinmanotr 201412",
+    "name": "The Thin Man",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/thinmanotr_201412.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
-    "id": "TrueDetectiveMysteries",
-    "name": "Truedetectivemysteries",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/TrueDetectiveMysteries.zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "twilight-zone-radio-dramas (1)",
-    "name": "Twilight Zone Radio Dramas (1)",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/twilight-zone-radio-dramas (1).zip",
-    "description": "",
-    "genres": [],
-    "tags": []
-  },
-  {
     "id": "twilight-zone-radio-dramas",
-    "name": "Twilight Zone Radio Dramas",
+    "name": "The Twilight Zone Radio Dramas",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/twilight-zone-radio-dramas.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "twilight-zone-radio-dramas (1)",
+    "name": "The Twilight Zone Radio Dramas - Collection 2",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/twilight-zone-radio-dramas%20%281%29.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Weird_Circle_Singles",
+    "name": "The Weird Circle",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Weird_Circle_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Whistler_Singles",
+    "name": "The Whistler",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Whistler_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Theater_Five_Ver1_CD_1of7",
+    "name": "Theater Five - Disc 1 of 7",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_1of7.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Theater_Five_Ver1_CD_2of7",
+    "name": "Theater Five - Disc 2 of 7",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_2of7.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Theater_Five_Ver1_CD_3of7",
+    "name": "Theater Five - Disc 3 of 7",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_3of7.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Theater_Five_Ver1_CD_4of7",
+    "name": "Theater Five - Disc 4 of 7",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_4of7.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Theater_Five_Ver1_CD_5of7",
+    "name": "Theater Five - Disc 5 of 7",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_5of7.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Theater_Five_Ver1_CD_6of7",
+    "name": "Theater Five - Disc 6 of 7",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_6of7.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_Theater_Five_Ver1_CD_7of7",
+    "name": "Theater Five - Disc 7 of 7",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_7of7.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Theatre_Royal_Singles",
+    "name": "Theatre Royal",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Theatre_Royal_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_This_Is_Your_FBI_Singles",
+    "name": "This Is Your FBI",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_This_Is_Your_FBI_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "town-hall-tonight-1938-06-08-232-music-publisher-needs-a-tune",
+    "name": "Town Hall Tonight - Music Publisher Needs a Tune",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/town-hall-tonight-1938-06-08-232-music-publisher-needs-a-tune.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "TrueDetectiveMysteries",
+    "name": "True Detective Mysteries",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/TrueDetectiveMysteries.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Curated_Under_Arrest_v2206_CD_1of1",
+    "name": "Under Arrest",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Curated_Under_Arrest_v2206_CD_1of1.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "VintageRadioCommercials",
-    "name": "Vintageradiocommercials",
+    "name": "Vintage Radio Commercials",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/VintageRadioCommercials.zip",
     "description": "",
     "genres": [],
     "tags": []
   },
   {
+    "id": "OTRR_Whitehall_1212_Singles",
+    "name": "Whitehall 1212",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Whitehall_1212_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Wild_Bill_Hickock_Singles",
+    "name": "Wild Bill Hickok",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Wild_Bill_Hickock_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Words_At_War_Singles",
+    "name": "Words at War",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Words_At_War_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_X_Minus_One_Singles",
+    "name": "X Minus One",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_X_Minus_One_Singles.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_YoursTrulyJohnnyDollar_Singles (1)",
+    "name": "Yours Truly, Johnny Dollar",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_YoursTrulyJohnnyDollar_Singles%20%281%29.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_YTJD_Ver2_CD_01of22",
+    "name": "Yours Truly, Johnny Dollar - Disc 1 of 22",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_01of22.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_YTJD_Ver2_CD_02of22",
+    "name": "Yours Truly, Johnny Dollar - Disc 2 of 22",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_02of22.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_YTJD_Ver2_CD_03of22",
+    "name": "Yours Truly, Johnny Dollar - Disc 3 of 22",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_03of22.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_YTJD_Ver2_CD_04of22",
+    "name": "Yours Truly, Johnny Dollar - Disc 4 of 22",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_04of22.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
+    "id": "OTRR_Certified_YTJD_Ver2_CD_05of22",
+    "name": "Yours Truly, Johnny Dollar - Disc 5 of 22",
+    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_05of22.zip",
+    "description": "",
+    "genres": [],
+    "tags": []
+  },
+  {
     "id": "zero-hour-1974-02-06-38-a-die-in-the-country-chapter-3",
-    "name": "Zero Hour 1974 02 06 38 A Die In The Country Chapter 3",
+    "name": "Zero Hour - A Die in the Country, Chapter 3",
     "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/zero-hour-1974-02-06-38-a-die-in-the-country-chapter-3.zip",
     "description": "",
     "genres": [],
