@@ -1,1354 +1,516 @@
-[
-  {
-    "id": "100ClassicalMusicMasterpieces",
-    "name": "100 Classical Music Masterpieces",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/100ClassicalMusicMasterpieces.zip",
-    "description": "A large collection of well-known classical works for relaxed, extended listening.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "ADateWithJudy14Eps",
-    "name": "A Date with Judy",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/ADateWithJudy14Eps.zip",
-    "description": "A lighthearted family comedy centered on teenage life, relationships, and everyday mishaps.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Man_Called_X_Singles",
-    "name": "A Man Called X",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Man_Called_X_Singles.zip",
-    "description": "International espionage and adventure follow secret agent Ken Thurston across dangerous assignments.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "abbott-costello-481216247itwastimeforachangeabbott-and-costello-show-1940-1949-old-time-radio",
-    "name": "Abbott and Costello",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/abbott-costello-481216247itwastimeforachangeabbott-and-costello-show-1940-1949-old-time-radio.zip",
-    "description": "Classic comedy routines, sketches, and guest appearances from Abbott and Costello.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Academy_Award_Theater_Singles",
-    "name": "Academy Award Theater",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Academy_Award_Theater_Singles.zip",
-    "description": "Radio adaptations of acclaimed motion pictures, presented with major Hollywood stars.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_American_History_Singles",
-    "name": "American History",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_American_History_Singles.zip",
-    "description": "Historic radio programs and dramatizations exploring people and events from American history.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "animalfarmtamsingreigatobyj",
-    "name": "Animal Farm - BBC Radio",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/animalfarmtamsingreigatobyj.zip",
-    "description": "A BBC radio adaptation of George Orwell's famous political fable.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Barrie_Craig_Singles",
-    "name": "Barrie Craig",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Barrie_Craig_Singles.zip",
-    "description": "A classic old time radio collection featuring Barrie Craig.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "BBCMarlowe",
-    "name": "BBC Philip Marlowe",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/BBCMarlowe.zip",
-    "description": "BBC adaptations featuring Raymond Chandler's hard-boiled private detective Philip Marlowe.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "bbc-sci-fi-radio-plays-part-five",
-    "name": "BBC Sci-Fi Radio Plays - Part 5",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bbc-sci-fi-radio-plays-part-five.zip",
-    "description": "A collection of BBC science-fiction radio dramas featuring imaginative stories and speculative worlds.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "bbc-sci-fi-radio-plays-part-nine",
-    "name": "BBC Sci-Fi Radio Plays - Part 9",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bbc-sci-fi-radio-plays-part-nine.zip",
-    "description": "A collection of BBC science-fiction radio dramas featuring imaginative stories and speculative worlds.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "beyond-midnight-xx-xx-xx-xx-cassius-touch",
-    "name": "Beyond Midnight - The Cassius Touch",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/beyond-midnight-xx-xx-xx-xx-cassius-touch.zip",
-    "description": "A supernatural radio drama from the eerie Beyond Midnight series.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OtrBlondie",
-    "name": "Blondie",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OtrBlondie.zip",
-    "description": "Domestic comedy based on the popular comic-strip couple Blondie and Dagwood Bumstead.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Blue_Beetle_Singles",
-    "name": "Blue Beetle",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Blue_Beetle_Singles.zip",
-    "description": "Superhero adventure featuring the crime-fighting Blue Beetle.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "bobandraycompletecollection",
-    "name": "Bob and Ray - Complete Collection",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bobandraycompletecollection.zip",
-    "description": "Deadpan sketches, parody, and absurdist comedy from radio duo Bob and Ray.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "bob-and-ray-1948-08-26-roving-reporter-ray-goulding",
-    "name": "Bob and Ray - Roving Reporter",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/bob-and-ray-1948-08-26-roving-reporter-ray-goulding.zip",
-    "description": "A classic Bob and Ray comedy broadcast built around their trademark satire and parody.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Boston_Blackie_Singles",
-    "name": "Boston Blackie",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Boston_Blackie_Singles.zip",
-    "description": "A classic old time radio collection featuring Boston Blackie.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Box_13_Singles",
-    "name": "Box 13",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Box_13_Singles.zip",
-    "description": "A classic old time radio collection featuring Box 13.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Bright_Star_Ver3.1_CD_1of1",
-    "name": "Bright Star",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Bright_Star_Ver3.1_CD_1of1.zip",
-    "description": "A classic old time radio collection featuring Bright Star.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Broadway_Is_My_Beat_Singles",
-    "name": "Broadway Is My Beat",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Broadway_Is_My_Beat_Singles.zip",
-    "description": "A classic old time radio collection featuring Broadway Is My Beat.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Candy_Matson_Singles",
-    "name": "Candy Matson",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Candy_Matson_Singles.zip",
-    "description": "A classic old time radio collection featuring Candy Matson.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Casey_Crime_Photographer_Singles",
-    "name": "Casey, Crime Photographer",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Casey_Crime_Photographer_Singles.zip",
-    "description": "A classic old time radio mystery and crime collection featuring Casey, Crime Photographer.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "cbs-complete-broadcast-day-d-day-1944-06-06-part-001",
-    "name": "CBS Complete Broadcast Day - D-Day 1944",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbs-complete-broadcast-day-d-day-1944-06-06-part-001.zip",
-    "description": "Historic CBS radio coverage from D-Day, June 6, 1944.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "cbsmtfs5",
-    "name": "CBS Radio Mystery Theater - Collection 5",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbsmtfs5.zip",
-    "description": "Suspense, mystery, horror, and supernatural drama from the long-running CBS anthology series. This download is collection 5.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "cbsmtfs6",
-    "name": "CBS Radio Mystery Theater - Collection 6",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbsmtfs6.zip",
-    "description": "Suspense, mystery, horror, and supernatural drama from the long-running CBS anthology series. This download is collection 6.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "cbsrmt-74-02-08-33-conspiracy-to-defraud",
-    "name": "CBS Radio Mystery Theater - Conspiracy to Defraud",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/cbsrmt-74-02-08-33-conspiracy-to-defraud.zip",
-    "description": "A suspenseful installment from CBS Radio Mystery Theater.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_CBS_Radio_Workshop_Singles",
-    "name": "CBS Radio Workshop",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_CBS_Radio_Workshop_Singles.zip",
-    "description": "Experimental radio drama, literature, and imaginative productions from CBS.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Challenge_of_the_Yukon_Singles",
-    "name": "Challenge of the Yukon",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Challenge_of_the_Yukon_Singles.zip",
-    "description": "Northern adventure with Sergeant Preston of the Yukon and his dog King.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Chet_Chetters_Tales_from_the_Morgue_Singles",
-    "name": "Chet Chetter's Tales from the Morgue",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Chet_Chetters_Tales_from_the_Morgue_Singles.zip",
-    "description": "A classic old time radio collection featuring Chet Chetter's Tales from the Morgue.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Cloak_and_Dagger_Singles (1)",
-    "name": "Cloak and Dagger",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Cloak_and_Dagger_Singles%20%281%29.zip",
-    "description": "Espionage dramas inspired by wartime intelligence operations and undercover missions.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "columbia-workshop-1938-07-23-100-murder-in-the-cathedral",
-    "name": "Columbia Workshop - Murder in the Cathedral",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/columbia-workshop-1938-07-23-100-murder-in-the-cathedral.zip",
-    "description": "A literary radio production from the innovative Columbia Workshop series.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Crime_and_Peter_Chambers_Ver1.1_CD_1of1",
-    "name": "Crime And Peter Chambers",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Crime_and_Peter_Chambers_Ver1.1_CD_1of1.zip",
-    "description": "Private-eye mystery and crime drama featuring investigator Peter Chambers.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Danger_Dr_Danfield_Singles",
-    "name": "Danger, Dr. Danfield",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Danger_Dr_Danfield_Singles.zip",
-    "description": "A classic old time radio collection featuring Danger, Dr. Danfield.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Otrr_Dangerous_Assignment_Singles",
-    "name": "Dangerous Assignment",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Otrr_Dangerous_Assignment_Singles.zip",
-    "description": "Globe-trotting espionage adventures with agent Steve Mitchell.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Dangerously_Yours_Singles",
-    "name": "Dangerously Yours",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Dangerously_Yours_Singles.zip",
-    "description": "Romantic adventure and historical drama told through passionate, high-stakes stories.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Dark_Fantasy_Singles",
-    "name": "Dark Fantasy",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Dark_Fantasy_Singles.zip",
-    "description": "Supernatural horror and dark suspense from one of radio's eerie anthology series.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Dimension_X_Ver1_CD_1of2",
-    "name": "Dimension X - Disc 1 of 2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Dimension_X_Ver1_CD_1of2.zip",
-    "description": "Classic science fiction adapted from leading writers of the genre. This download is disc 1 of 2.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Dimension_X_Ver1_CD_2of2",
-    "name": "Dimension X - Disc 2 of 2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Dimension_X_Ver1_CD_2of2.zip",
-    "description": "Classic science fiction adapted from leading writers of the genre. This download is disc 2 of 2.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Dr_Kildare_Singles",
-    "name": "Dr. Kildare",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Dr_Kildare_Singles.zip",
-    "description": "Medical drama following Dr. James Kildare and the staff of Blair General Hospital.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "duffys-tavern-1947-12-03-263-jean-sablon",
-    "name": "Duffy's Tavern - Jean Sablon",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/duffys-tavern-1947-12-03-263-jean-sablon.zip",
-    "description": "A comedy episode from Duffy's Tavern featuring guest Jean Sablon.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "encore-theater-1946-08-27-13-disputed-passage",
-    "name": "Encore Theater - Disputed Passage",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/encore-theater-1946-08-27-13-disputed-passage.zip",
-    "description": "A dramatic radio adaptation from the Encore Theater anthology.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Father_Knows_Best_Singles",
-    "name": "Father Knows Best",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Father_Knows_Best_Singles.zip",
-    "description": "Warm family comedy centered on the Anderson household and everyday family life.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "fibber-mc-gee-and-molly",
-    "name": "Fibber McGee and Molly",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/fibber-mc-gee-and-molly.zip",
-    "description": "Classic domestic comedy filled with running gags, colorful neighbors, and small-town chaos.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Fort_Laramie_Singles",
-    "name": "Fort Laramie",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Fort_Laramie_Singles.zip",
-    "description": "Serious Western drama portraying frontier soldiers and life at a remote cavalry post.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "fu manchu__390903-102-the-joy-shop",
-    "name": "Fu Manchu - The Joy Shop",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/fu%20manchu/390903-102-the-joy-shop.zip",
-    "description": "Mystery and adventure featuring the sinister criminal mastermind Fu Manchu.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "otr_geneautry_64kb_mp3",
-    "name": "Gene Autry",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/otr_geneautry_64kb_mp3.zip",
-    "description": "Western adventure and music featuring singing cowboy Gene Autry.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Harey_Lime_Singles",
-    "name": "Harry Lime",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Harey_Lime_Singles.zip",
-    "description": "Crime, intrigue, and international adventure centered on the charming rogue Harry Lime.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "have-gun-will-travel",
-    "name": "Have Gun, Will Travel",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/have-gun-will-travel.zip",
-    "description": "Adult Western drama following Paladin, a sophisticated gun-for-hire in the Old West.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "HearthstoneoftheDeathsquad",
-    "name": "Hearthstone of the Death Squad",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/HearthstoneoftheDeathsquad.zip",
-    "description": "Police crime drama following Inspector Hearthstone and Scotland Yard investigations.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Maintained_In_the_Name_of_the_Law_v2304_CD_1of1",
-    "name": "In The Name Of The Law",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Maintained_In_the_Name_of_the_Law_v2304_CD_1of1.zip",
-    "description": "Crime and police drama focused on law enforcement and criminal investigations.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Inner_Sanctum_Mysteries_Singles",
-    "name": "Inner Sanctum Mysteries",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Inner_Sanctum_Mysteries_Singles.zip",
-    "description": "Macabre mystery and horror introduced with one of old time radio's most famous creaking doors.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "InspectorThorne",
-    "name": "Inspector Thorne",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/InspectorThorne.zip",
-    "description": "Mystery drama featuring Inspector Thorne and his criminal investigations.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Its_A_Crime_Mr_Collins",
-    "name": "It's a Crime, Mr. Collins",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Its_A_Crime_Mr_Collins.zip",
-    "description": "Fast-moving detective drama featuring private investigator Greg Collins.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Jeff_Regan_Singles",
-    "name": "Jeff Regan, Investigator",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Jeff_Regan_Singles.zip",
-    "description": "Hard-boiled detective stories featuring private investigator Jeff Regan.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_John_Steele_Adventurer_Singles",
-    "name": "John Steele, Adventurer",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_John_Steele_Adventurer_Singles.zip",
-    "description": "Action and adventure stories featuring the globe-trotting John Steele.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "LetGeorgeDoIt1948",
-    "name": "Let George Do It",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/LetGeorgeDoIt1948.zip",
-    "description": "Detective drama starring Bob Bailey as freelance investigator George Valentine.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Let_George_Do_It",
-    "name": "Let George Do It",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Let_George_Do_It.zip",
-    "description": "Detective drama starring Bob Bailey as freelance investigator George Valentine.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "lights-out_20200820",
-    "name": "Lights Out",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/lights-out_20200820.zip",
-    "description": "Landmark horror radio featuring unsettling supernatural stories and experimental sound.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "LightsOutoldTimeRadio",
-    "name": "Lights Out",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/LightsOutoldTimeRadio.zip",
-    "description": "Landmark horror radio featuring unsettling supernatural stories and experimental sound.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Luke_Slaughter_Of_Tombstone_Singles",
-    "name": "Luke Slaughter of Tombstone",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Luke_Slaughter_Of_Tombstone_Singles.zip",
-    "description": "Western drama following cattleman Luke Slaughter in the Arizona Territory.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "l-a-1953-11-20-xx-thanksgiving-in-pine-ridge",
-    "name": "Lum and Abner - Thanksgiving in Pine Ridge",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/l-a-1953-11-20-xx-thanksgiving-in-pine-ridge.zip",
-    "description": "A Thanksgiving installment of the beloved rural comedy Lum and Abner.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Lux_Radio_Theatre_Digitally_Restored_Collection",
-    "name": "Lux Radio Theatre",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Lux_Radio_Theatre_Digitally_Restored_Collection.zip",
-    "description": "Star-filled radio adaptations of popular Hollywood films and stage productions.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Mama_Blooms_Brood_Singles",
-    "name": "Mama Bloom's Brood",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mama_Blooms_Brood_Singles.zip",
-    "description": "Family comedy and domestic situations centered around Mama Bloom and her household.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Matinee_Theater_Ver1_CD_1of1",
-    "name": "Matinee Theater",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Matinee_Theater_Ver1_CD_1of1.zip",
-    "description": "Anthology drama presenting a variety of stories and radio adaptations.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Mathew_Slade_Private_Investigator",
-    "name": "Matthew Slade, Private Investigator",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Mathew_Slade_Private_Investigator.zip",
-    "description": "Private-eye crime drama featuring investigator Matthew Slade.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "mercury-theater-1938-07-18-2-treasure-island",
-    "name": "Mercury Theatre - Treasure Island",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/mercury-theater-1938-07-18-2-treasure-island.zip",
-    "description": "Orson Welles and the Mercury Theatre present a radio adaptation of Treasure Island.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "MikeHammer",
-    "name": "Mike Hammer",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/MikeHammer.zip",
-    "description": "Hard-boiled detective drama featuring Mickey Spillane's private investigator Mike Hammer.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Molle_Mystery_Theatre_Singles",
-    "name": "Molle Mystery Theatre",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Molle_Mystery_Theatre_Singles.zip",
-    "description": "Mystery and suspense anthology featuring crime, danger, and psychological drama.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Mr_District_Attorney_Singles",
-    "name": "Mr. District Attorney",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mr_District_Attorney_Singles.zip",
-    "description": "Crime drama following a determined district attorney fighting corruption and organized crime.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Mr_Keen_Tracer_Of_Lost_Persons_Singles",
-    "name": "Mr. Keen, Tracer of Lost Persons",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mr_Keen_Tracer_Of_Lost_Persons_Singles.zip",
-    "description": "Long-running mystery series featuring investigator Mr. Keen and unusual missing-person cases.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Murder_Clinic",
-    "name": "Murder Clinic",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Murder_Clinic.zip",
-    "description": "Crime and mystery stories adapted from works by notable detective-fiction writers.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Mystery_House_Singles",
-    "name": "Mystery House",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mystery_House_Singles.zip",
-    "description": "Classic mystery anthology featuring murder, suspense, and unusual criminal cases.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "MysteryIsMyHobby2 (1)",
-    "name": "Mystery Is My Hobby",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/MysteryIsMyHobby2%20%281%29.zip",
-    "description": "Detective mystery featuring writer and amateur sleuth Barton Drake.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "nbc-university-theater-1948-10-17-13-history-of-mr-polly",
-    "name": "NBC University Theater - The History of Mr. Polly",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/nbc-university-theater-1948-10-17-13-history-of-mr-polly.zip",
-    "description": "A literary radio adaptation presented by NBC University Theater.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "NeroWolfe",
-    "name": "Nero Wolfe",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/NeroWolfe.zip",
-    "description": "Mystery drama featuring brilliant armchair detective Nero Wolfe and Archie Goodwin.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "nick-carter",
-    "name": "Nick Carter, Master Detective",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/nick-carter.zip",
-    "description": "Classic detective adventures featuring master sleuth Nick Carter.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Nick_Carter_Master_Detective_Singles",
-    "name": "Nick Carter, Master Detective",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Nick_Carter_Master_Detective_Singles.zip",
-    "description": "Classic detective adventures featuring master sleuth Nick Carter.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Obsession_Singles",
-    "name": "Obsession",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Obsession_Singles.zip",
-    "description": "Psychological drama exploring intense emotions, secrets, and dangerous fixations.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Old_Gold_Comedy_Theater_Singles",
-    "name": "Old Gold Comedy Theater",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Old_Gold_Comedy_Theater_Singles.zip",
-    "description": "Comedy adaptations featuring popular performers and stories from stage and screen.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Old_Radio_Adverts_01",
-    "name": "Old Radio Advertisements",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Old_Radio_Adverts_01.zip",
-    "description": "A collection of vintage radio commercials and advertising from broadcasting's early decades.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "drive-download-20240708T100218Z-001",
-    "name": "Old Time Radio Collection",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/drive-download-20240708T100218Z-001.zip",
-    "description": "A mixed collection of classic old time radio broadcasts across multiple genres.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "oldtimeyradioshowscollection",
-    "name": "Old Time Radio Shows Collection",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/oldtimeyradioshowscollection.zip",
-    "description": "A broad collection of classic radio programs from the golden age of broadcasting.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OrsonWelles-MercuryTheater-1938Recordings",
-    "name": "Orson Welles - Mercury Theatre",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OrsonWelles-MercuryTheater-1938Recordings.zip",
-    "description": "Classic dramatic productions from Orson Welles and the Mercury Theatre on the Air.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Pat_Novak_Singles",
-    "name": "Pat Novak, for Hire",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Pat_Novak_Singles.zip",
-    "description": "Noir crime drama featuring cynical waterfront private eye Pat Novak.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Maintained_Phillip_Marlowe_v2005_DVD_1of1",
-    "name": "Philip Marlowe",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Maintained_Phillip_Marlowe_v2005_DVD_1of1.zip",
-    "description": "Hard-boiled detective drama featuring Raymond Chandler's private eye Philip Marlowe.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Philo_Vance_Singles",
-    "name": "Philo Vance",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Philo_Vance_Singles.zip",
-    "description": "Classic detective mysteries featuring sophisticated sleuth Philo Vance.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "PopeyeTheSailor",
-    "name": "Popeye the Sailor",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/PopeyeTheSailor.zip",
-    "description": "Comedy and adventure featuring the famous spinach-loving sailor Popeye.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Ranger_Bill_Singles",
-    "name": "Ranger Bill",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Ranger_Bill_Singles.zip",
-    "description": "Family-friendly Western adventure featuring forest ranger Bill Jefferson.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "RayBradburyBBCr4",
-    "name": "Ray Bradbury - BBC Radio 4",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/RayBradburyBBCr4.zip",
-    "description": "BBC Radio adaptations of imaginative science-fiction and fantasy stories by Ray Bradbury.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "red-ryder",
-    "name": "Red Ryder",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/red-ryder.zip",
-    "description": "Western adventure featuring cowboy hero Red Ryder and Little Beaver.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Rocky_Fortune_Singles",
-    "name": "Rocky Fortune",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Rocky_Fortune_Singles.zip",
-    "description": "Crime and adventure featuring Frank Sinatra as the quick-witted Rocky Fortune.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "RockyJordan",
-    "name": "Rocky Jordan",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/RockyJordan.zip",
-    "description": "Mystery and adventure centered on an American café owner in exotic Cairo.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Rogues_Gallery_Singles",
-    "name": "Rogues Gallery",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Rogues_Gallery_Singles.zip",
-    "description": "Hard-boiled detective drama featuring private investigator Richard Rogue.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Roy_Rogers_Singles",
-    "name": "Roy Rogers",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Roy_Rogers_Singles.zip",
-    "description": "Western adventure, music, and family entertainment featuring Roy Rogers.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "screen-guild-theater-1939-01-08-1-variety-review-1-begin-gulf-screen-guild-show",
-    "name": "Screen Guild Theater",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/screen-guild-theater-1939-01-08-1-variety-review-1-begin-gulf-screen-guild-show.zip",
-    "description": "Hollywood stars recreate popular films and dramatic stories for radio audiences.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "sealtest-variety-theater-1948-10-21-6-happy-ending",
-    "name": "Sealtest Variety Theater - Happy Ending",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/sealtest-variety-theater-1948-10-21-6-happy-ending.zip",
-    "description": "A variety-radio installment featuring comedy, music, and entertainment.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Sears_Radio_Theater_Singles",
-    "name": "Sears Radio Theater",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Sears_Radio_Theater_Singles.zip",
-    "description": "A multi-genre anthology presenting drama, mystery, comedy, and adventure.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Secrets_Of_Scotland_Yard_Singles",
-    "name": "Secrets of Scotland Yard",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Secrets_Of_Scotland_Yard_Singles.zip",
-    "description": "True-crime-style stories inspired by notable cases from Scotland Yard.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "tcssherlockholmesjohnstanleyhq2",
-    "name": "Sherlock Holmes - John Stanley Collection",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/tcssherlockholmesjohnstanleyhq2.zip",
-    "description": "Sherlock Holmes mysteries featuring John Stanley in the title role.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Stand_By_For_Crime_Singles",
-    "name": "Stand By for Crime",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Stand_By_For_Crime_Singles.zip",
-    "description": "Crime and mystery drama centered on reporter Chuck Morgan and criminal investigations.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "stories-of-sherlock-holmes-sa-85-04-28-x-the-sarussi-pea",
-    "name": "Stories of Sherlock Holmes - The Sarussi Pea",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/stories-of-sherlock-holmes-sa-85-04-28-x-the-sarussi-pea.zip",
-    "description": "A Sherlock Holmes mystery featuring the famous detective and Dr. Watson.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Strange_Wills",
-    "name": "Strange Wills",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Strange_Wills.zip",
-    "description": "Mystery anthology built around unusual wills, inheritances, and the crimes surrounding them.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Strange_Wills__OTRR_Certified_Strange_Wills_Ver1_CD_1of2",
-    "name": "Strange Wills - Disc 1 of 2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Strange_Wills/OTRR_Certified_Strange_Wills_Ver1_CD_1of2.zip",
-    "description": "Mystery anthology built around unusual wills, inheritances, and the crimes surrounding them. This download is disc 1 of 2.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Strange_Wills__OTRR_Certified_Strange_Wills_Ver1_CD_2of2",
-    "name": "Strange Wills - Disc 2 of 2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Strange_Wills/OTRR_Certified_Strange_Wills_Ver1_CD_2of2.zip",
-    "description": "Mystery anthology built around unusual wills, inheritances, and the crimes surrounding them. This download is disc 2 of 2.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Suspense_Singles",
-    "name": "Suspense",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles.zip",
-    "description": "One of radio's great suspense anthologies, featuring mystery, crime, horror, and psychological drama.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Suspense_Singles_By_Year_1957",
-    "name": "Suspense - 1957",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles_By_Year_1957.zip",
-    "description": "One of radio's great suspense anthologies, featuring mystery, crime, horror, and psychological drama. This download contains episodes from 1957.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Suspense_Singles_By_Year_1958",
-    "name": "Suspense - 1958",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles_By_Year_1958.zip",
-    "description": "One of radio's great suspense anthologies, featuring mystery, crime, horror, and psychological drama. This download contains episodes from 1958.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Suspense_Singles_By_Year_1962",
-    "name": "Suspense - 1962",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Suspense_Singles_By_Year_1962.zip",
-    "description": "One of radio's great suspense anthologies, featuring mystery, crime, horror, and psychological drama. This download contains episodes from 1962.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Tales_of_the_Texas_Rangers_Single",
-    "name": "Tales of the Texas Rangers",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Tales_of_the_Texas_Rangers_Single.zip",
-    "description": "Western crime drama based on cases handled by the Texas Rangers.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Tarzan_Singles_TotA",
-    "name": "Tarzan",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Tarzan_Singles_TotA.zip",
-    "description": "Jungle adventure featuring Edgar Rice Burroughs' legendary hero Tarzan.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Frank_Race_Singles",
-    "name": "The Adventures of Frank Race",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Frank_Race_Singles.zip",
-    "description": "International mystery and adventure featuring investigator Frank Race.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "sam-spade",
-    "name": "The Adventures of Sam Spade",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/sam-spade.zip",
-    "description": "Witty hard-boiled detective stories featuring private eye Sam Spade.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "adventures_holmes",
-    "name": "The Adventures of Sherlock Holmes",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/adventures_holmes.zip",
-    "description": "Classic Sherlock Holmes mysteries featuring the great detective and Dr. Watson.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Adventures_Of_The_Abbotts",
-    "name": "The Adventures of the Abbotts",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Adventures_Of_The_Abbotts.zip",
-    "description": "Husband-and-wife mystery drama featuring Pat and Jean Abbott.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_The_Big_Show_Singles",
-    "name": "The Big Show",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_The_Big_Show_Singles.zip",
-    "description": "Lavish radio variety featuring comedy, music, celebrity guests, and dramatic performances.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Black_Museum_Singles",
-    "name": "The Black Museum",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Black_Museum_Singles.zip",
-    "description": "Orson Welles narrates true-crime stories inspired by objects from Scotland Yard's Black Museum.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "The_Chase_OTR",
-    "name": "The Chase",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/The_Chase_OTR.zip",
-    "description": "Suspense anthology built around pursuit, danger, and people caught in desperate situations.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Damon_Runyon_Singles",
-    "name": "The Damon Runyon Theatre",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Damon_Runyon_Singles.zip",
-    "description": "Colorful comedy-drama adapted from Damon Runyon's stories of Broadway characters and gamblers.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_The_Devil_And_Mr_O_Singles",
-    "name": "The Devil and Mr. O",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_The_Devil_And_Mr_O_Singles.zip",
-    "description": "Supernatural suspense and fantasy stories hosted by Arch Oboler.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Falcon_Singles",
-    "name": "The Falcon",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Falcon_Singles.zip",
-    "description": "Mystery and detective adventures featuring the suave investigator known as the Falcon.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "Otrr_The_Great_Gildersleeve_Singles",
-    "name": "The Great Gildersleeve",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/Otrr_The_Great_Gildersleeve_Singles.zip",
-    "description": "Classic situation comedy following Throckmorton P. Gildersleeve and life in Summerfield.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "TheGreenHornet",
-    "name": "The Green Hornet",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/TheGreenHornet.zip",
-    "description": "Masked crime-fighting adventure featuring newspaper publisher Britt Reid as the Green Hornet.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Halls_of_Ivy",
-    "name": "The Halls of Ivy",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Halls_of_Ivy.zip",
-    "description": "Warm comedy-drama set around a college president, his wife, students, and faculty.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "hitchhikers-guide-to-the-galaxy-bbcr4",
-    "name": "The Hitchhiker's Guide to the Galaxy - BBC Radio 4",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/hitchhikers-guide-to-the-galaxy-bbcr4.zip",
-    "description": "The original BBC science-fiction comedy adventure through space with Arthur Dent and Ford Prefect.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "390903-102-the-joy-shop",
-    "name": "The Joy Shop",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/390903-102-the-joy-shop.zip",
-    "description": "A vintage radio program from the early years of network broadcasting.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "TheLadyDetectivesBBCr4",
-    "name": "The Lady Detectives - BBC Radio 4",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/TheLadyDetectivesBBCr4.zip",
-    "description": "BBC adaptations featuring pioneering women detectives from classic mystery fiction.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "lord-of-the-rings-10_202401",
-    "name": "The Lord of the Rings",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/lord-of-the-rings-10_202401.zip",
-    "description": "A radio adaptation of J. R. R. Tolkien's epic fantasy adventure.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Mel_Blanc_Singles",
-    "name": "The Mel Blanc Show",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mel_Blanc_Singles.zip",
-    "description": "Classic radio comedy starring legendary voice performer Mel Blanc.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Mysterious_Traveler_Singles",
-    "name": "The Mysterious Traveler",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Mysterious_Traveler_Singles.zip",
-    "description": "Atmospheric mystery, horror, and supernatural tales introduced by a mysterious railway traveler.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_New_Adventures_of_Nero_Wolfe_Singles",
-    "name": "The New Adventures of Nero Wolfe",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_New_Adventures_of_Nero_Wolfe_Singles.zip",
-    "description": "Sidney Greenstreet stars as master detective Nero Wolfe in classic mystery cases.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Harris_Faye_Singles",
-    "name": "The Phil Harris-Alice Faye Show",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Harris_Faye_Singles.zip",
-    "description": "Fast-paced family and show-business comedy starring Phil Harris and Alice Faye.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "ThePrivateFilesOfRexSaunders",
-    "name": "The Private Files of Rex Saunders",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/ThePrivateFilesOfRexSaunders.zip",
-    "description": "Detective mystery featuring investigator Rex Saunders and unusual criminal cases.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Railroad_Hour_Singles",
-    "name": "The Railroad Hour",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Railroad_Hour_Singles.zip",
-    "description": "Musical anthology featuring condensed operettas, musicals, and theatrical favorites.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "red-skelton-show_202008",
-    "name": "The Red Skelton Show",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/red-skelton-show_202008.zip",
-    "description": "Classic comedy, characters, sketches, and entertainment starring Red Skelton.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "TheSaintVincentPriceOTR",
-    "name": "The Saint - Vincent Price",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/TheSaintVincentPriceOTR.zip",
-    "description": "Vincent Price stars as Simon Templar in stylish mystery and crime adventures.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Sealed_Book",
-    "name": "The Sealed Book",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Sealed_Book.zip",
-    "description": "Dark mystery and supernatural anthology featuring tales of crime, fate, and the unexplained.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Sealed_Book_Ver1_CD_1of2",
-    "name": "The Sealed Book - Disc 1 of 2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Sealed_Book_Ver1_CD_1of2.zip",
-    "description": "Dark mystery and supernatural anthology featuring tales of crime, fate, and the unexplained. This download is disc 1 of 2.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Sealed_Book_Ver1_CD_2of2",
-    "name": "The Sealed Book - Disc 2 of 2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Sealed_Book_Ver1_CD_2of2.zip",
-    "description": "Dark mystery and supernatural anthology featuring tales of crime, fate, and the unexplained. This download is disc 2 of 2.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "the-shadow-1938-10-09-141-death-stalks-the-shadow",
-    "name": "The Shadow - Death Stalks the Shadow",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/the-shadow-1938-10-09-141-death-stalks-the-shadow.zip",
-    "description": "A classic adventure of the mysterious crime-fighter known as The Shadow.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_The_Six_Shooter_Singles",
-    "name": "The Six Shooter",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_The_Six_Shooter_Singles.zip",
-    "description": "James Stewart stars in a thoughtful Western series about drifting cowboy Britt Ponset.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "thinmanotr_201412",
-    "name": "The Thin Man",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/thinmanotr_201412.zip",
-    "description": "Sophisticated mystery and comedy featuring married sleuths Nick and Nora Charles.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "twilight-zone-radio-dramas",
-    "name": "The Twilight Zone Radio Dramas",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/twilight-zone-radio-dramas.zip",
-    "description": "Radio adaptations inspired by The Twilight Zone, blending science fiction, fantasy, and suspense.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "twilight-zone-radio-dramas (1)",
-    "name": "The Twilight Zone Radio Dramas - Collection 2",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/twilight-zone-radio-dramas%20%281%29.zip",
-    "description": "Radio adaptations inspired by The Twilight Zone, blending science fiction, fantasy, and suspense. This download is collection 2.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Weird_Circle_Singles",
-    "name": "The Weird Circle",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Weird_Circle_Singles.zip",
-    "description": "Supernatural and gothic radio adaptations drawn from classic literature.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Whistler_Singles",
-    "name": "The Whistler",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Whistler_Singles.zip",
-    "description": "Dark crime and suspense stories known for ironic twists and the haunting Whistler narrator.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_1of7",
-    "name": "Theater Five - Disc 1 of 7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_1of7.zip",
-    "description": "Fast-paced dramatic anthology featuring mystery, science fiction, crime, and contemporary stories. This download is disc 1 of 7.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_2of7",
-    "name": "Theater Five - Disc 2 of 7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_2of7.zip",
-    "description": "Fast-paced dramatic anthology featuring mystery, science fiction, crime, and contemporary stories. This download is disc 2 of 7.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_3of7",
-    "name": "Theater Five - Disc 3 of 7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_3of7.zip",
-    "description": "Fast-paced dramatic anthology featuring mystery, science fiction, crime, and contemporary stories. This download is disc 3 of 7.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_4of7",
-    "name": "Theater Five - Disc 4 of 7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_4of7.zip",
-    "description": "Fast-paced dramatic anthology featuring mystery, science fiction, crime, and contemporary stories. This download is disc 4 of 7.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_5of7",
-    "name": "Theater Five - Disc 5 of 7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_5of7.zip",
-    "description": "Fast-paced dramatic anthology featuring mystery, science fiction, crime, and contemporary stories. This download is disc 5 of 7.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_6of7",
-    "name": "Theater Five - Disc 6 of 7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_6of7.zip",
-    "description": "Fast-paced dramatic anthology featuring mystery, science fiction, crime, and contemporary stories. This download is disc 6 of 7.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_Theater_Five_Ver1_CD_7of7",
-    "name": "Theater Five - Disc 7 of 7",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_Theater_Five_Ver1_CD_7of7.zip",
-    "description": "Fast-paced dramatic anthology featuring mystery, science fiction, crime, and contemporary stories. This download is disc 7 of 7.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Theatre_Royal_Singles",
-    "name": "Theatre Royal",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Theatre_Royal_Singles.zip",
-    "description": "Classic literary and dramatic radio adaptations introduced by Laurence Olivier.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_This_Is_Your_FBI_Singles",
-    "name": "This Is Your FBI",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_This_Is_Your_FBI_Singles.zip",
-    "description": "Crime drama inspired by FBI cases involving espionage, fraud, kidnapping, and organized crime.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "town-hall-tonight-1938-06-08-232-music-publisher-needs-a-tune",
-    "name": "Town Hall Tonight - Music Publisher Needs a Tune",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/town-hall-tonight-1938-06-08-232-music-publisher-needs-a-tune.zip",
-    "description": "A classic comedy and variety broadcast from Fred Allen's Town Hall Tonight.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "TrueDetectiveMysteries",
-    "name": "True Detective Mysteries",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/TrueDetectiveMysteries.zip",
-    "description": "Crime stories inspired by true-detective cases and real-world investigations.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Curated_Under_Arrest_v2206_CD_1of1",
-    "name": "Under Arrest",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Curated_Under_Arrest_v2206_CD_1of1.zip",
-    "description": "Crime drama centered on police investigations and the pursuit of criminals.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "VintageRadioCommercials",
-    "name": "Vintage Radio Commercials",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/VintageRadioCommercials.zip",
-    "description": "A collection of vintage commercials, jingles, and advertising from classic radio.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Whitehall_1212_Singles",
-    "name": "Whitehall 1212",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Whitehall_1212_Singles.zip",
-    "description": "British crime drama inspired by cases associated with Scotland Yard.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Wild_Bill_Hickock_Singles",
-    "name": "Wild Bill Hickok",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Wild_Bill_Hickock_Singles.zip",
-    "description": "Western adventure featuring Wild Bill Hickok and his sidekick Jingles.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Words_At_War_Singles",
-    "name": "Words at War",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Words_At_War_Singles.zip",
-    "description": "Wartime radio adaptations of books and writings about World War II.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_X_Minus_One_Singles",
-    "name": "X Minus One",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_X_Minus_One_Singles.zip",
-    "description": "Landmark science-fiction anthology adapting stories by many of the genre's leading writers.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_YoursTrulyJohnnyDollar_Singles (1)",
-    "name": "Yours Truly, Johnny Dollar",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_YoursTrulyJohnnyDollar_Singles%20%281%29.zip",
-    "description": "Classic detective drama featuring the freelance insurance investigator with the action-packed expense account.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_01of22",
-    "name": "Yours Truly, Johnny Dollar - Disc 1 of 22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_01of22.zip",
-    "description": "Classic detective drama featuring the freelance insurance investigator with the action-packed expense account. This download is disc 1 of 22.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_02of22",
-    "name": "Yours Truly, Johnny Dollar - Disc 2 of 22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_02of22.zip",
-    "description": "Classic detective drama featuring the freelance insurance investigator with the action-packed expense account. This download is disc 2 of 22.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_03of22",
-    "name": "Yours Truly, Johnny Dollar - Disc 3 of 22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_03of22.zip",
-    "description": "Classic detective drama featuring the freelance insurance investigator with the action-packed expense account. This download is disc 3 of 22.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_04of22",
-    "name": "Yours Truly, Johnny Dollar - Disc 4 of 22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_04of22.zip",
-    "description": "Classic detective drama featuring the freelance insurance investigator with the action-packed expense account. This download is disc 4 of 22.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "OTRR_Certified_YTJD_Ver2_CD_05of22",
-    "name": "Yours Truly, Johnny Dollar - Disc 5 of 22",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/OTRR_Certified_YTJD_Ver2_CD_05of22.zip",
-    "description": "Classic detective drama featuring the freelance insurance investigator with the action-packed expense account. This download is disc 5 of 22.",
-    "genres": [],
-    "tags": []
-  },
-  {
-    "id": "zero-hour-1974-02-06-38-a-die-in-the-country-chapter-3",
-    "name": "Zero Hour - A Die in the Country, Chapter 3",
-    "zipUrl": "https://pub-d4ff88e11f2c45469b9f22dd87850942.r2.dev/zero-hour-1974-02-06-38-a-die-in-the-country-chapter-3.zip",
-    "description": "A suspenseful chapter from the 1970s radio anthology Zero Hour.",
-    "genres": [],
-    "tags": []
-  }
-]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Golden Radio Hour – Show Downloads</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <style>
+    :root{
+      --red:#b5121b;
+      --red-dark:#941018;
+      --gold:#d99b20;
+      --black:#171717;
+      --text:#222;
+      --muted:#666;
+      --border:#dddddd;
+      --white:#ffffff;
+      --shadow:0 8px 24px rgba(0,0,0,.08);
+    }
+
+    *{
+      box-sizing:border-box;
+    }
+
+    html,
+    body{
+      margin:0;
+      padding:0;
+    }
+
+    body{
+      font-family:
+        Inter,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+      background:#fff;
+      color:var(--text);
+    }
+
+    .app{
+      width:100%;
+      max-width:1100px;
+      margin:0 auto;
+      padding:8px 10px 14px;
+    }
+
+    header{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:16px;
+      padding:4px 2px 12px;
+      margin-bottom:10px;
+      border-bottom:3px solid var(--red);
+    }
+
+    .title-wrap{
+      min-width:0;
+    }
+
+    h1{
+      margin:0;
+      display:flex;
+      align-items:center;
+      gap:8px;
+      color:var(--black);
+      font-size:1.35rem;
+      line-height:1.2;
+      font-weight:800;
+    }
+
+    .logo-dot{
+      width:9px;
+      height:9px;
+      border-radius:50%;
+      background:var(--gold);
+      flex:0 0 auto;
+    }
+
+    header p{
+      margin:4px 0 0;
+      color:var(--muted);
+      font-size:.82rem;
+      line-height:1.35;
+    }
+
+    .pill{
+      flex:0 0 auto;
+      padding:5px 10px;
+      border:1px solid #e0c487;
+      border-radius:4px;
+      background:#fffaf0;
+      color:#775a18;
+      font-size:.72rem;
+      font-weight:700;
+      white-space:nowrap;
+    }
+
+    .panel{
+      background:var(--white);
+      border:1px solid var(--border);
+      border-radius:7px;
+      box-shadow:var(--shadow);
+      padding:10px;
+    }
+
+    .count-label{
+      margin-bottom:8px;
+      color:var(--muted);
+      font-size:.76rem;
+      font-weight:700;
+      text-align:right;
+    }
+
+    .list{
+      max-height:640px;
+      overflow-y:auto;
+      overflow-x:hidden;
+      padding-right:3px;
+      scrollbar-width:thin;
+      scrollbar-color:#bbbbbb transparent;
+    }
+
+    .list::-webkit-scrollbar{
+      width:7px;
+    }
+
+    .list::-webkit-scrollbar-track{
+      background:transparent;
+    }
+
+    .list::-webkit-scrollbar-thumb{
+      background:#c7c7c7;
+      border-radius:10px;
+    }
+
+    .card{
+      display:grid;
+      grid-template-columns:minmax(0,1fr) auto;
+      align-items:center;
+      gap:16px;
+      padding:10px 12px;
+      margin-bottom:5px;
+      border:1px solid #e1e1e1;
+      border-left:3px solid var(--gold);
+      border-radius:4px;
+      background:#fff;
+      transition:
+        background .12s ease,
+        border-color .12s ease;
+    }
+
+    .card:hover{
+      background:#fafafa;
+      border-color:#d3d3d3;
+      border-left-color:var(--red);
+    }
+
+    .card-header{
+      min-width:0;
+    }
+
+    .show-name{
+      margin:0 0 4px;
+      color:var(--black);
+      font-size:.93rem;
+      line-height:1.25;
+      font-weight:750;
+    }
+
+    .show-description{
+      margin:0;
+      color:var(--muted);
+      font-size:.74rem;
+      line-height:1.4;
+    }
+
+    .btn-row{
+      display:flex;
+      justify-content:flex-end;
+      align-items:center;
+    }
+
+    .btn{
+      min-height:32px;
+      padding:0 11px;
+      border:1px solid var(--red);
+      border-radius:4px;
+      background:var(--red);
+      color:#fff;
+      font-size:.72rem;
+      font-weight:800;
+      text-decoration:none;
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      white-space:nowrap;
+      transition:
+        background .15s ease,
+        border-color .15s ease;
+    }
+
+    .btn:hover{
+      background:var(--red-dark);
+      border-color:var(--red-dark);
+    }
+
+    .hint{
+      margin-top:9px;
+      padding-top:8px;
+      border-top:1px solid #eeeeee;
+      color:var(--muted);
+      font-size:.70rem;
+      line-height:1.4;
+    }
+
+    .hint strong{
+      color:#444;
+    }
+
+    .empty{
+      padding:28px 10px;
+      text-align:center;
+      color:var(--muted);
+      font-size:.85rem;
+    }
+
+    @media(max-width:600px){
+
+      .app{
+        padding:5px 6px 10px;
+      }
+
+      header{
+        align-items:flex-start;
+        flex-direction:column;
+      }
+
+      h1{
+        font-size:1.15rem;
+      }
+
+      .pill{
+        display:none;
+      }
+
+      .panel{
+        padding:8px;
+      }
+
+      .list{
+        max-height:620px;
+      }
+
+      .card{
+        grid-template-columns:1fr;
+        gap:8px;
+        padding:10px;
+      }
+
+      .btn-row{
+        justify-content:flex-start;
+      }
+
+      .btn{
+        width:100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="app">
+
+    <header>
+
+      <div class="title-wrap">
+
+        <h1>
+          <span class="logo-dot"></span>
+          Golden Radio Hour – Show Downloads
+        </h1>
+
+        <p>
+          Download complete old time radio show archives for your personal collection.
+        </p>
+
+      </div>
+
+      <div class="pill">
+        Full-show ZIP archives
+      </div>
+
+    </header>
+
+    <section class="panel">
+
+      <div
+        class="count-label"
+        id="countLabel"
+      >
+        Loading…
+      </div>
+
+      <div
+        class="list"
+        id="showList"
+      ></div>
+
+      <div class="hint">
+        Tip: If your browser opens the ZIP instead of downloading it,
+        right-click the download button and choose
+        <strong>“Save link as…”</strong>.
+      </div>
+
+    </section>
+
+  </div>
+
+  <script>
+
+    const JSON_URL =
+      "https://wonderman33.github.io/grh_downloader/zipped_shows.json";
+
+    const showListEl =
+      document.getElementById("showList");
+
+    const countLabelEl =
+      document.getElementById("countLabel");
+
+
+    function safeName(show){
+
+      if(
+        show.name &&
+        show.name.trim()
+      ){
+        return show.name;
+      }
+
+      return show.id || "Untitled Show";
+    }
+
+
+    function renderList(shows){
+
+      showListEl.innerHTML = "";
+
+      if(!shows.length){
+
+        showListEl.innerHTML = `
+          <div class="empty">
+            No show downloads are currently available.
+          </div>
+        `;
+
+        countLabelEl.textContent =
+          "0 shows";
+
+        return;
+      }
+
+
+      shows.forEach(show => {
+
+        const card =
+          document.createElement("div");
+
+        card.className =
+          "card";
+
+
+        const header =
+          document.createElement("div");
+
+        header.className =
+          "card-header";
+
+
+        const title =
+          document.createElement("h2");
+
+        title.className =
+          "show-name";
+
+        title.textContent =
+          safeName(show);
+
+
+        const description =
+          document.createElement("p");
+
+        description.className =
+          "show-description";
+
+        description.textContent =
+          show.description ||
+          "Classic old time radio show archive.";
+
+
+        header.appendChild(title);
+        header.appendChild(description);
+
+
+        const btnRow =
+          document.createElement("div");
+
+        btnRow.className =
+          "btn-row";
+
+
+        if(show.zipUrl){
+
+          const link =
+            document.createElement("a");
+
+          link.className =
+            "btn";
+
+          link.href =
+            show.zipUrl;
+
+          link.textContent =
+            "Download ZIP";
+
+          link.setAttribute(
+            "download",
+            ""
+          );
+
+          btnRow.appendChild(link);
+
+        }
+
+
+        card.appendChild(header);
+        card.appendChild(btnRow);
+
+        showListEl.appendChild(card);
+
+      });
+
+
+      countLabelEl.textContent =
+        shows.length +
+        (
+          shows.length === 1
+            ? " show"
+            : " shows"
+        );
+
+    }
+
+
+    async function loadShows(){
+
+      try{
+
+        const response =
+          await fetch(
+            JSON_URL,
+            {
+              cache:"no-cache"
+            }
+          );
+
+        if(!response.ok){
+          throw new Error(
+            "HTTP " + response.status
+          );
+        }
+
+        const data =
+          await response.json();
+
+        const shows =
+          Array.isArray(data)
+            ? data
+            : [];
+
+        renderList(shows);
+
+      }
+
+      catch(error){
+
+        console.error(
+          "Could not load show JSON:",
+          error
+        );
+
+        showListEl.innerHTML = `
+          <div class="empty">
+            Show downloads could not be loaded.
+          </div>
+        `;
+
+        countLabelEl.textContent =
+          "Unable to load shows";
+
+      }
+
+    }
+
+
+    loadShows();
+
+  </script>
+
+</body>
+</html>
